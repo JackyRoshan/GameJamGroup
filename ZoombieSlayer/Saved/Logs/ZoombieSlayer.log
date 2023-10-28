@@ -2456,3 +2456,184 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.28-07.54.29:975][893]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322986671
 [2023.10.28-07.54.29:975][893]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322986672
 [2023.10.28-07.54.29:975][893]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322987673
+[2023.10.28-07.54.50:270][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Basic_FloorTile_Basic.FloorTile_Basic_FloorTile_Basic
+[2023.10.28-07.54.50:270][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Basic_FloorTile_Basic.FloorTile_Basic_FloorTile_Basic
+[2023.10.28-07.54.50:271][264]LogActorFactory: Actor Factory spawned StaticMesh /Game/building/FBX/FloorTile_Basic_FloorTile_Basic.FloorTile_Basic_FloorTile_Basic as actor: StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_3
+[2023.10.28-07.54.50:706][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Basic_FloorTile_Basic.FloorTile_Basic_FloorTile_Basic
+[2023.10.28-07.54.50:706][286]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Basic_FloorTile_Basic.FloorTile_Basic_FloorTile_Basic
+[2023.10.28-07.54.50:708][286]LogActorFactory: Actor Factory spawned StaticMesh /Game/building/FBX/FloorTile_Basic_FloorTile_Basic.FloorTile_Basic_FloorTile_Basic as actor: StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1363299674
+[2023.10.28-07.54.52:209][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Basic2_FloorTile_Basic2.FloorTile_Basic2_FloorTile_Basic2
+[2023.10.28-07.54.52:209][363]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Basic2_FloorTile_Basic2.FloorTile_Basic2_FloorTile_Basic2
+[2023.10.28-07.54.52:210][363]LogActorFactory: Actor Factory spawned StaticMesh /Game/building/FBX/FloorTile_Basic2_FloorTile_Basic2.FloorTile_Basic2_FloorTile_Basic2 as actor: StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_4
+[2023.10.28-07.54.52:883][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Basic2_FloorTile_Basic2.FloorTile_Basic2_FloorTile_Basic2
+[2023.10.28-07.54.52:883][402]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Basic2_FloorTile_Basic2.FloorTile_Basic2_FloorTile_Basic2
+[2023.10.28-07.54.52:885][402]LogActorFactory: Actor Factory spawned StaticMesh /Game/building/FBX/FloorTile_Basic2_FloorTile_Basic2.FloorTile_Basic2_FloorTile_Basic2 as actor: StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1365476675
+[2023.10.28-07.54.55:285][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Corner_FloorTile_Corner.FloorTile_Corner_FloorTile_Corner
+[2023.10.28-07.54.55:285][534]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Corner_FloorTile_Corner.FloorTile_Corner_FloorTile_Corner
+[2023.10.28-07.54.55:285][534]LogActorFactory: Actor Factory spawned StaticMesh /Game/building/FBX/FloorTile_Corner_FloorTile_Corner.FloorTile_Corner_FloorTile_Corner as actor: StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_5
+[2023.10.28-07.54.55:916][561]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Corner_FloorTile_Corner.FloorTile_Corner_FloorTile_Corner
+[2023.10.28-07.54.55:916][561]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Corner_FloorTile_Corner.FloorTile_Corner_FloorTile_Corner
+[2023.10.28-07.54.55:918][561]LogActorFactory: Actor Factory spawned StaticMesh /Game/building/FBX/FloorTile_Corner_FloorTile_Corner.FloorTile_Corner_FloorTile_Corner as actor: StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1368509676
+[2023.10.28-07.54.59:372][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_InnerCorner_FloorTile_InnerCorner.FloorTile_InnerCorner_FloorTile_InnerCorner
+[2023.10.28-07.54.59:372][759]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_InnerCorner_FloorTile_InnerCorner.FloorTile_InnerCorner_FloorTile_InnerCorner
+[2023.10.28-07.54.59:373][759]LogActorFactory: Actor Factory spawned StaticMesh /Game/building/FBX/FloorTile_InnerCorner_FloorTile_InnerCorner.FloorTile_InnerCorner_FloorTile_InnerCorner as actor: StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_6
+[2023.10.28-07.54.59:432][759]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-07.55.00:079][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_InnerCorner_FloorTile_InnerCorner.FloorTile_InnerCorner_FloorTile_InnerCorner
+[2023.10.28-07.55.00:079][789]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_InnerCorner_FloorTile_InnerCorner.FloorTile_InnerCorner_FloorTile_InnerCorner
+[2023.10.28-07.55.00:081][789]LogActorFactory: Actor Factory spawned StaticMesh /Game/building/FBX/FloorTile_InnerCorner_FloorTile_InnerCorner.FloorTile_InnerCorner_FloorTile_InnerCorner as actor: StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1372672677
+[2023.10.28-07.55.01:729][876]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Side_FloorTile_Side.FloorTile_Side_FloorTile_Side
+[2023.10.28-07.55.01:729][876]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Side_FloorTile_Side.FloorTile_Side_FloorTile_Side
+[2023.10.28-07.55.01:730][876]LogActorFactory: Actor Factory spawned StaticMesh /Game/building/FBX/FloorTile_Side_FloorTile_Side.FloorTile_Side_FloorTile_Side as actor: StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_7
+[2023.10.28-07.55.01:980][876]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-07.55.02:855][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Side_FloorTile_Side.FloorTile_Side_FloorTile_Side
+[2023.10.28-07.55.02:855][920]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/building/FBX/FloorTile_Side_FloorTile_Side.FloorTile_Side_FloorTile_Side
+[2023.10.28-07.55.02:857][920]LogActorFactory: Actor Factory spawned StaticMesh /Game/building/FBX/FloorTile_Side_FloorTile_Side.FloorTile_Side_FloorTile_Side as actor: StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1375448678
+[2023.10.28-07.55.17:886][798]Cmd: DELETE
+[2023.10.28-07.55.17:886][798]Cmd: ACTOR DELETE
+[2023.10.28-07.55.17:888][798]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.10.28-07.55.17:898][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.10.28-07.55.17:899][798]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2023.10.28-07.55.20:751][964]Cmd: EDIT COPY
+[2023.10.28-07.55.21:025][980]Cmd: EDIT PASTE
+[2023.10.28-07.55.21:073][980]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-07.55.56:368][ 83]Cmd: EDIT COPY
+[2023.10.28-07.55.56:623][ 98]Cmd: EDIT PASTE
+[2023.10.28-07.55.56:656][ 98]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-07.56.24:553][716]Cmd: EDIT COPY
+[2023.10.28-07.56.24:803][731]Cmd: EDIT PASTE
+[2023.10.28-07.56.24:836][731]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-07.56.40:787][655]Cmd: EDIT COPY
+[2023.10.28-07.56.41:070][672]Cmd: EDIT PASTE
+[2023.10.28-07.56.41:104][672]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-07.59.07:503][189]Cmd: TRANSACTION UNDO
+[2023.10.28-07.59.07:503][189]LogEditorTransaction: Undo 旋转元素
+[2023.10.28-07.59.07:558][189]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-07.59.10:519][352]Cmd: TRANSACTION UNDO
+[2023.10.28-07.59.10:520][352]LogEditorTransaction: Undo 编辑Static Mesh
+[2023.10.28-07.59.10:548][352]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-07.59.35:087][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.10.28-07.59.35:097][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.10.28-07.59.36:397][532]LogSlate: Window '保存内容' being destroyed
+[2023.10.28-07.59.36:416][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.28-07.59.36:459][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.10.28-07.59.36:469][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.10.28-07.59.36:476][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.10.28-07.59.36:480][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/0/8F/SC80AQQIQG4UX6E5XZP15P
+[2023.10.28-07.59.36:481][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/SC80AQQIQG4UX6E5XZP15P352B90034991A1673F9D0289E2B2BE9A.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/0/8F/SC80AQQIQG4UX6E5XZP15P.uasset'
+[2023.10.28-07.59.36:483][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/7/2S/UGHWOYJA0EBJGYMQ1LK3ZW
+[2023.10.28-07.59.36:483][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/UGHWOYJA0EBJGYMQ1LK3ZWBC1A90FA4A93F0A6D935F9A0660D60A6.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/7/2S/UGHWOYJA0EBJGYMQ1LK3ZW.uasset'
+[2023.10.28-07.59.36:485][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/B/Q5/MU67QE0G3ESCQNFHT8FBMN
+[2023.10.28-07.59.36:486][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/MU67QE0G3ESCQNFHT8FBMN1A492FF048B413CDD96AE4B6A6F2B4DC.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/B/Q5/MU67QE0G3ESCQNFHT8FBMN.uasset'
+[2023.10.28-07.59.36:488][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/2/FJ/KOLGV257SLQF1MXNA2BYWX
+[2023.10.28-07.59.36:489][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/KOLGV257SLQF1MXNA2BYWX100881584AFBE78DC8D096A447BD28A2.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/2/FJ/KOLGV257SLQF1MXNA2BYWX.uasset'
+[2023.10.28-07.59.36:490][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/A/DT/M5EHJN15746AHAT6EWD4SS
+[2023.10.28-07.59.36:491][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/M5EHJN15746AHAT6EWD4SS25A21FA144C9C47CF85C5AB418880B7B.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/A/DT/M5EHJN15746AHAT6EWD4SS.uasset'
+[2023.10.28-07.59.36:494][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/1/YE/JWGVAPW74HH46AUHS5UXU7
+[2023.10.28-07.59.36:494][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/JWGVAPW74HH46AUHS5UXU7841C9EF14E1F0A86E1F2D8AE91D21A41.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/1/YE/JWGVAPW74HH46AUHS5UXU7.uasset'
+[2023.10.28-07.59.36:496][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/3/PA/P2UVIOBQ1CZK2CRYHOH1HD
+[2023.10.28-07.59.36:497][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/P2UVIOBQ1CZK2CRYHOH1HD78A76E70485A2D1CAFD4CA9BAE06E01C.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/3/PA/P2UVIOBQ1CZK2CRYHOH1HD.uasset'
+[2023.10.28-07.59.36:499][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/0/MU/CY7TPIHC2UO98L388FKHV9
+[2023.10.28-07.59.36:499][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/CY7TPIHC2UO98L388FKHV92850A37F48057E55B05FC5AB057BC04E.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/0/MU/CY7TPIHC2UO98L388FKHV9.uasset'
+[2023.10.28-07.59.36:501][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/5/TD/R4HKEYG4F5WUQVN7NLUWYO
+[2023.10.28-07.59.36:503][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/R4HKEYG4F5WUQVN7NLUWYOD5CC2B534A35929CD3C525A56DBDD0DF.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/5/TD/R4HKEYG4F5WUQVN7NLUWYO.uasset'
+[2023.10.28-07.59.36:505][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/2/P8/QOSVRN7N3FSSIS2UAOHYV0
+[2023.10.28-07.59.36:505][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/QOSVRN7N3FSSIS2UAOHYV027C9761B4CEBDC98294E94908CF2EF6A.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/2/P8/QOSVRN7N3FSSIS2UAOHYV0.uasset'
+[2023.10.28-07.59.36:507][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/A/QM/NZ4WEBUPE3BOUP8P9GRJ52
+[2023.10.28-07.59.36:508][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/NZ4WEBUPE3BOUP8P9GRJ52069248A844ACA84308724CB422B6FB6D.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/A/QM/NZ4WEBUPE3BOUP8P9GRJ52.uasset'
+[2023.10.28-07.59.36:510][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/7/QS/DDL7IPGX6PH5K3OM4DCNAK
+[2023.10.28-07.59.36:510][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/DDL7IPGX6PH5K3OM4DCNAKFB7F40C74D3D255C212CAD9ECA114383.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/7/QS/DDL7IPGX6PH5K3OM4DCNAK.uasset'
+[2023.10.28-07.59.36:513][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/7/4T/9TPJFHUFZ1HL979M22VOVT
+[2023.10.28-07.59.36:514][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/9TPJFHUFZ1HL979M22VOVTC68904494D095B071BFF81A7FDD41FFE.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/7/4T/9TPJFHUFZ1HL979M22VOVT.uasset'
+[2023.10.28-07.59.36:516][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/7/K0/X7HKSLV3CS4LB3CEKZFW1W
+[2023.10.28-07.59.36:516][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/X7HKSLV3CS4LB3CEKZFW1W256970E641C838E776FD81A090550C41.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/7/K0/X7HKSLV3CS4LB3CEKZFW1W.uasset'
+[2023.10.28-07.59.36:518][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/E/7Q/QPL4JAQZWY1LTQD27BTQSC
+[2023.10.28-07.59.36:520][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/QPL4JAQZWY1LTQD27BTQSC0349FACC486F4AA2383AFF93CAA5B90B.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/E/7Q/QPL4JAQZWY1LTQD27BTQSC.uasset'
+[2023.10.28-07.59.36:522][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/7/IO/J3D8AIU7EHE2JJ2A9APSYE
+[2023.10.28-07.59.36:523][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/J3D8AIU7EHE2JJ2A9APSYEB8FF26684ADE89C4765D208C02083A28.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/7/IO/J3D8AIU7EHE2JJ2A9APSYE.uasset'
+[2023.10.28-07.59.36:525][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/E/SV/ODEPZK9SIJWI9KUHEPBDQ8
+[2023.10.28-07.59.36:525][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/ODEPZK9SIJWI9KUHEPBDQ89B9D01DB47C4B7F052B69EBA408612B8.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/E/SV/ODEPZK9SIJWI9KUHEPBDQ8.uasset'
+[2023.10.28-07.59.36:527][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/6/LE/QKRKVINWXDGP2JP07D0ESD
+[2023.10.28-07.59.36:528][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/QKRKVINWXDGP2JP07D0ESD82F2BDC24CB6614C0B67A0A45073DA1D.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/6/LE/QKRKVINWXDGP2JP07D0ESD.uasset'
+[2023.10.28-07.59.36:530][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/5/ST/7KN4YOL5D4N6K1MKI4BTHJ
+[2023.10.28-07.59.36:530][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/7KN4YOL5D4N6K1MKI4BTHJB68542474AA29D31086265932E26A72B.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/5/ST/7KN4YOL5D4N6K1MKI4BTHJ.uasset'
+[2023.10.28-07.59.36:533][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/3/IM/9MVQ8R28Q8AQX4UYS0K1VV
+[2023.10.28-07.59.36:534][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/9MVQ8R28Q8AQX4UYS0K1VV48E792184538DB497F93679555B0E2F5.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/3/IM/9MVQ8R28Q8AQX4UYS0K1VV.uasset'
+[2023.10.28-07.59.36:536][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/1/OI/VKWZUL39O24IO1DE9UHK2A
+[2023.10.28-07.59.36:536][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/VKWZUL39O24IO1DE9UHK2AC13ADC8A4F734DCDF7C9C29F864F6E86.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/1/OI/VKWZUL39O24IO1DE9UHK2A.uasset'
+[2023.10.28-07.59.36:538][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/3/71/88FQ3P42WNIVW910UY9C5W
+[2023.10.28-07.59.36:539][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/88FQ3P42WNIVW910UY9C5W7231E5ED440013798F9A62A48C97CDB6.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/3/71/88FQ3P42WNIVW910UY9C5W.uasset'
+[2023.10.28-07.59.36:541][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/A/7G/TPJV3LT2FS6HW5J7AXDCR7
+[2023.10.28-07.59.36:542][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/TPJV3LT2FS6HW5J7AXDCR734A6993941565B2644D935850A443210.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/A/7G/TPJV3LT2FS6HW5J7AXDCR7.uasset'
+[2023.10.28-07.59.36:544][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/A/0I/FRGXPL1CGQZMFHZQOI70RU
+[2023.10.28-07.59.36:544][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/FRGXPL1CGQZMFHZQOI70RU5D3A801243C1B1755023F4AF07FA598E.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/A/0I/FRGXPL1CGQZMFHZQOI70RU.uasset'
+[2023.10.28-07.59.36:547][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/D/0V/ZRBJJHOYOS1IKUZ72W6WJT
+[2023.10.28-07.59.36:548][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/ZRBJJHOYOS1IKUZ72W6WJT7EA9576945603DC7F9ED189DFACD9A63.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/D/0V/ZRBJJHOYOS1IKUZ72W6WJT.uasset'
+[2023.10.28-07.59.36:549][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/4/EF/DOYBR6II2M2K26YCF12P4U
+[2023.10.28-07.59.36:551][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/DOYBR6II2M2K26YCF12P4UC83975EB4BCC97F1F108779CF9C55B47.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/4/EF/DOYBR6II2M2K26YCF12P4U.uasset'
+[2023.10.28-07.59.36:553][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/0/FO/FWETP89UGV9QANJ42M1Y9Q
+[2023.10.28-07.59.36:553][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/FWETP89UGV9QANJ42M1Y9Q17EAE3EA4330BA48A4BA699FD580FA3F.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/0/FO/FWETP89UGV9QANJ42M1Y9Q.uasset'
+[2023.10.28-07.59.36:554][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/8/HX/PSKRPF3JTA6QRY493BBFAO
+[2023.10.28-07.59.36:555][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/PSKRPF3JTA6QRY493BBFAOE18BF2A648B0564323F0CEAA49C54FAC.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/8/HX/PSKRPF3JTA6QRY493BBFAO.uasset'
+[2023.10.28-07.59.36:557][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/B/LA/N4VU3F7EE6MADEDH3U1ENC
+[2023.10.28-07.59.36:558][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/N4VU3F7EE6MADEDH3U1ENC821466FD4821795F5E431EBADD3BDC70.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/B/LA/N4VU3F7EE6MADEDH3U1ENC.uasset'
+[2023.10.28-07.59.36:561][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/2/BM/MVYNHGW0797U5RBBT8BS5M
+[2023.10.28-07.59.36:561][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/MVYNHGW0797U5RBBT8BS5MC9D80C064900EA5D6A538B99E7FCCE4E.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/2/BM/MVYNHGW0797U5RBBT8BS5M.uasset'
+[2023.10.28-07.59.36:563][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/7/B3/6RNCIY9VNSRBDHSOKB2D6S
+[2023.10.28-07.59.36:563][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/6RNCIY9VNSRBDHSOKB2D6SCE4922D949CC686319C96E8290B1DFAA.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/7/B3/6RNCIY9VNSRBDHSOKB2D6S.uasset'
+[2023.10.28-07.59.36:565][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/3/RV/WG5ENJYQN8N6SSKJE5G6PG
+[2023.10.28-07.59.36:566][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/WG5ENJYQN8N6SSKJE5G6PG253A5EEB42626999CD35B291C8077450.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/3/RV/WG5ENJYQN8N6SSKJE5G6PG.uasset'
+[2023.10.28-07.59.36:569][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/9/0E/61YJECB6Z1EHOUG896LW2G
+[2023.10.28-07.59.36:569][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/61YJECB6Z1EHOUG896LW2G542FAA364D7F33A18FB2E9BF010101BB.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/9/0E/61YJECB6Z1EHOUG896LW2G.uasset'
+[2023.10.28-07.59.36:570][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/A/BQ/P0CFJJMXE8YBVXYGVH4AM1
+[2023.10.28-07.59.36:570][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/P0CFJJMXE8YBVXYGVH4AM1887907324603A59035B201A1F96AC9F9.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/A/BQ/P0CFJJMXE8YBVXYGVH4AM1.uasset'
+[2023.10.28-07.59.36:573][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/5/8D/S9QWRTUBY37LESZLO8QH2Y
+[2023.10.28-07.59.36:573][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/S9QWRTUBY37LESZLO8QH2Y8C80873E442E6B27DAF2CFA9FA710EF7.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/5/8D/S9QWRTUBY37LESZLO8QH2Y.uasset'
+[2023.10.28-07.59.36:575][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/9/VQ/2MC7KOUUSWRMEFOEIDJMHR
+[2023.10.28-07.59.36:575][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/2MC7KOUUSWRMEFOEIDJMHR2C745DDF46144B03E4ED2B85490E92B2.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/9/VQ/2MC7KOUUSWRMEFOEIDJMHR.uasset'
+[2023.10.28-07.59.36:577][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/A/H0/SDJ70HUBWMUU9LM6U1YVNY
+[2023.10.28-07.59.36:577][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/SDJ70HUBWMUU9LM6U1YVNY831524004B18FE3470E907879EC53C6A.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/A/H0/SDJ70HUBWMUU9LM6U1YVNY.uasset'
+[2023.10.28-07.59.36:579][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/5/SP/FL16YIIU8KQBUG4O4DP447
+[2023.10.28-07.59.36:579][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/FL16YIIU8KQBUG4O4DP4472BFC71E542D1513693B7FA81F279C8A6.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/5/SP/FL16YIIU8KQBUG4O4DP447.uasset'
+[2023.10.28-07.59.36:582][532]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DemoMap/2/LF/SWWLZEVSZXCJZ5LGXLL1K6
+[2023.10.28-07.59.36:582][532]LogSavePackage: Moving '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Saved/SWWLZEVSZXCJZ5LGXLL1K64D4475B84379A8D7B66321BE76B901D5.tmp' to '../../../../../gamejam/UE/GameJamGroup/ZoombieSlayer/Content/__ExternalActors__/DemoMap/2/LF/SWWLZEVSZXCJZ5LGXLL1K6.uasset'
+[2023.10.28-07.59.36:592][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 1.05 sec)
+[2023.10.28-07.59.36:597][532]AssetCheck: New page: 资产保存：多个资产
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_B445068F393AD2B601_1324120392
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1242695433
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1257972434
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1261966450
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1266026466
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1270132482
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1286164498
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1292544514
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1297925530
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1301247546
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1306549562
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1309885578
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1312888594
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1315363610
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1473664682
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1457396681
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1375448678
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1429216680
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1318096626
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1372672677
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1368509676
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1393618679
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1320685642
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1365476675
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322978658
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322979659
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322980660
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322980661
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322981662
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322982663
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322982664
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322983665
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322983666
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322984667
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322984668
+[2023.10.28-07.59.36:597][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322984669
+[2023.10.28-07.59.36:598][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322985670
+[2023.10.28-07.59.36:598][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1322987673
+[2023.10.28-07.59.36:598][532]LogContentValidation: Display: 正在验证/Script/Engine.StaticMeshActor /Game/DemoMap.DemoMap:PersistentLevel.StaticMeshActor_UAID_84A938FF332100B701_1363299674

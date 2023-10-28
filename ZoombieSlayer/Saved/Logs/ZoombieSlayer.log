@@ -3500,3 +3500,1014 @@ NVIDIA GeForce RTX 3070 Laptop GPU
 [2023.10.28-02.28.24:441][404]LogViewport: Scene viewport resized to 982x592, mode Windowed.
 [2023.10.28-02.28.24:483][406]LogViewport: Scene viewport resized to 1035x589, mode Windowed.
 [2023.10.28-02.28.24:491][406]LogViewport: Scene viewport resized to 982x589, mode Windowed.
+[2023.10.28-02.30.13:755][ 42]LogViewport: Scene viewport resized to 1035x582, mode Windowed.
+[2023.10.28-02.30.13:760][ 42]LogViewport: Scene viewport resized to 982x582, mode Windowed.
+[2023.10.28-02.30.13:798][ 44]LogViewport: Scene viewport resized to 1035x540, mode Windowed.
+[2023.10.28-02.30.13:805][ 44]LogViewport: Scene viewport resized to 982x540, mode Windowed.
+[2023.10.28-02.30.13:844][ 46]LogViewport: Scene viewport resized to 1035x466, mode Windowed.
+[2023.10.28-02.30.13:850][ 46]LogViewport: Scene viewport resized to 982x466, mode Windowed.
+[2023.10.28-02.30.13:888][ 48]LogViewport: Scene viewport resized to 1035x432, mode Windowed.
+[2023.10.28-02.30.13:894][ 48]LogViewport: Scene viewport resized to 982x432, mode Windowed.
+[2023.10.28-02.30.13:933][ 50]LogViewport: Scene viewport resized to 1035x414, mode Windowed.
+[2023.10.28-02.30.13:940][ 50]LogViewport: Scene viewport resized to 982x414, mode Windowed.
+[2023.10.28-02.30.13:976][ 52]LogViewport: Scene viewport resized to 1035x406, mode Windowed.
+[2023.10.28-02.30.13:982][ 52]LogViewport: Scene viewport resized to 982x406, mode Windowed.
+[2023.10.28-02.30.43:605][825]LogViewport: Scene viewport resized to 1035x411, mode Windowed.
+[2023.10.28-02.30.43:611][825]LogViewport: Scene viewport resized to 982x411, mode Windowed.
+[2023.10.28-02.30.43:650][827]LogViewport: Scene viewport resized to 1035x446, mode Windowed.
+[2023.10.28-02.30.43:656][827]LogViewport: Scene viewport resized to 982x446, mode Windowed.
+[2023.10.28-02.30.43:696][829]LogViewport: Scene viewport resized to 1035x501, mode Windowed.
+[2023.10.28-02.30.43:703][829]LogViewport: Scene viewport resized to 982x501, mode Windowed.
+[2023.10.28-02.30.43:739][831]LogViewport: Scene viewport resized to 1035x563, mode Windowed.
+[2023.10.28-02.30.43:746][831]LogViewport: Scene viewport resized to 982x563, mode Windowed.
+[2023.10.28-02.30.43:787][833]LogViewport: Scene viewport resized to 1035x606, mode Windowed.
+[2023.10.28-02.30.43:794][833]LogViewport: Scene viewport resized to 982x606, mode Windowed.
+[2023.10.28-02.30.43:834][835]LogViewport: Scene viewport resized to 1035x645, mode Windowed.
+[2023.10.28-02.30.43:840][835]LogViewport: Scene viewport resized to 982x645, mode Windowed.
+[2023.10.28-02.30.43:879][837]LogViewport: Scene viewport resized to 1035x666, mode Windowed.
+[2023.10.28-02.30.43:886][837]LogViewport: Scene viewport resized to 982x666, mode Windowed.
+[2023.10.28-02.30.43:925][839]LogViewport: Scene viewport resized to 1035x682, mode Windowed.
+[2023.10.28-02.30.43:932][839]LogViewport: Scene viewport resized to 982x682, mode Windowed.
+[2023.10.28-02.30.43:970][841]LogViewport: Scene viewport resized to 1035x686, mode Windowed.
+[2023.10.28-02.30.43:976][841]LogViewport: Scene viewport resized to 982x686, mode Windowed.
+[2023.10.28-02.30.44:130][850]LogViewport: Scene viewport resized to 1035x677, mode Windowed.
+[2023.10.28-02.30.44:136][850]LogViewport: Scene viewport resized to 982x677, mode Windowed.
+[2023.10.28-02.30.44:173][852]LogViewport: Scene viewport resized to 1035x623, mode Windowed.
+[2023.10.28-02.30.44:181][852]LogViewport: Scene viewport resized to 982x623, mode Windowed.
+[2023.10.28-02.30.44:220][854]LogViewport: Scene viewport resized to 1035x543, mode Windowed.
+[2023.10.28-02.30.44:226][854]LogViewport: Scene viewport resized to 982x543, mode Windowed.
+[2023.10.28-02.30.44:263][856]LogViewport: Scene viewport resized to 1035x514, mode Windowed.
+[2023.10.28-02.30.44:271][856]LogViewport: Scene viewport resized to 982x514, mode Windowed.
+[2023.10.28-02.30.44:308][858]LogViewport: Scene viewport resized to 1035x482, mode Windowed.
+[2023.10.28-02.30.44:316][858]LogViewport: Scene viewport resized to 982x482, mode Windowed.
+[2023.10.28-02.31.14:059][636]LogViewport: Scene viewport resized to 1035x491, mode Windowed.
+[2023.10.28-02.31.14:065][636]LogViewport: Scene viewport resized to 982x491, mode Windowed.
+[2023.10.28-02.31.14:103][638]LogViewport: Scene viewport resized to 1035x518, mode Windowed.
+[2023.10.28-02.31.14:110][638]LogViewport: Scene viewport resized to 982x518, mode Windowed.
+[2023.10.28-02.31.14:153][640]LogViewport: Scene viewport resized to 1035x550, mode Windowed.
+[2023.10.28-02.31.14:160][640]LogViewport: Scene viewport resized to 982x550, mode Windowed.
+[2023.10.28-02.31.14:200][642]LogViewport: Scene viewport resized to 1035x601, mode Windowed.
+[2023.10.28-02.31.14:207][642]LogViewport: Scene viewport resized to 982x601, mode Windowed.
+[2023.10.28-02.31.14:246][644]LogViewport: Scene viewport resized to 1035x661, mode Windowed.
+[2023.10.28-02.31.14:254][644]LogViewport: Scene viewport resized to 982x661, mode Windowed.
+[2023.10.28-02.31.14:296][646]LogViewport: Scene viewport resized to 1035x688, mode Windowed.
+[2023.10.28-02.31.14:303][646]LogViewport: Scene viewport resized to 982x688, mode Windowed.
+[2023.10.28-02.31.14:341][648]LogViewport: Scene viewport resized to 1035x697, mode Windowed.
+[2023.10.28-02.31.14:348][648]LogViewport: Scene viewport resized to 982x697, mode Windowed.
+[2023.10.28-02.31.14:387][650]LogViewport: Scene viewport resized to 1035x705, mode Windowed.
+[2023.10.28-02.31.14:395][650]LogViewport: Scene viewport resized to 982x705, mode Windowed.
+[2023.10.28-02.31.14:432][652]LogViewport: Scene viewport resized to 1035x707, mode Windowed.
+[2023.10.28-02.31.14:439][652]LogViewport: Scene viewport resized to 982x707, mode Windowed.
+[2023.10.28-02.31.14:591][661]LogViewport: Scene viewport resized to 1035x713, mode Windowed.
+[2023.10.28-02.31.14:598][661]LogViewport: Scene viewport resized to 982x713, mode Windowed.
+[2023.10.28-02.31.14:733][669]LogViewport: Scene viewport resized to 1035x715, mode Windowed.
+[2023.10.28-02.31.14:740][669]LogViewport: Scene viewport resized to 982x715, mode Windowed.
+[2023.10.28-02.31.14:778][671]LogViewport: Scene viewport resized to 1035x678, mode Windowed.
+[2023.10.28-02.31.14:785][671]LogViewport: Scene viewport resized to 982x678, mode Windowed.
+[2023.10.28-02.31.14:826][673]LogViewport: Scene viewport resized to 1035x648, mode Windowed.
+[2023.10.28-02.31.14:834][673]LogViewport: Scene viewport resized to 982x648, mode Windowed.
+[2023.10.28-02.31.15:325][702]LogViewport: Scene viewport resized to 1035x628, mode Windowed.
+[2023.10.28-02.31.15:331][702]LogViewport: Scene viewport resized to 982x628, mode Windowed.
+[2023.10.28-02.31.15:370][704]LogViewport: Scene viewport resized to 1035x592, mode Windowed.
+[2023.10.28-02.31.15:376][704]LogViewport: Scene viewport resized to 982x592, mode Windowed.
+[2023.10.28-02.31.15:416][706]LogViewport: Scene viewport resized to 1035x577, mode Windowed.
+[2023.10.28-02.31.15:423][706]LogViewport: Scene viewport resized to 982x577, mode Windowed.
+[2023.10.28-02.31.15:678][721]LogViewport: Scene viewport resized to 1035x589, mode Windowed.
+[2023.10.28-02.31.15:684][721]LogViewport: Scene viewport resized to 982x589, mode Windowed.
+[2023.10.28-02.31.15:722][723]LogViewport: Scene viewport resized to 1035x598, mode Windowed.
+[2023.10.28-02.31.15:729][723]LogViewport: Scene viewport resized to 982x598, mode Windowed.
+[2023.10.28-02.31.15:768][725]LogViewport: Scene viewport resized to 1035x603, mode Windowed.
+[2023.10.28-02.31.15:776][725]LogViewport: Scene viewport resized to 982x603, mode Windowed.
+[2023.10.28-02.31.15:814][727]LogViewport: Scene viewport resized to 1035x608, mode Windowed.
+[2023.10.28-02.31.15:821][727]LogViewport: Scene viewport resized to 982x608, mode Windowed.
+[2023.10.28-02.31.15:861][729]LogViewport: Scene viewport resized to 1035x611, mode Windowed.
+[2023.10.28-02.31.15:868][729]LogViewport: Scene viewport resized to 982x611, mode Windowed.
+[2023.10.28-02.31.15:907][731]LogViewport: Scene viewport resized to 1035x615, mode Windowed.
+[2023.10.28-02.31.15:915][731]LogViewport: Scene viewport resized to 982x615, mode Windowed.
+[2023.10.28-02.31.17:418][820]LogViewport: Scene viewport resized to 1038x615, mode Windowed.
+[2023.10.28-02.31.17:423][820]LogViewport: Scene viewport resized to 979x615, mode Windowed.
+[2023.10.28-02.31.17:462][822]LogViewport: Scene viewport resized to 1056x615, mode Windowed.
+[2023.10.28-02.31.17:469][822]LogViewport: Scene viewport resized to 960x615, mode Windowed.
+[2023.10.28-02.31.17:526][824]LogViewport: Scene viewport resized to 1102x615, mode Windowed.
+[2023.10.28-02.31.17:535][824]LogViewport: Scene viewport resized to 915x615, mode Windowed.
+[2023.10.28-02.31.17:607][826]LogViewport: Scene viewport resized to 1105x615, mode Windowed.
+[2023.10.28-02.31.17:617][826]LogViewport: Scene viewport resized to 912x615, mode Windowed.
+[2023.10.28-02.31.17:874][841]LogViewport: Scene viewport resized to 1102x615, mode Windowed.
+[2023.10.28-02.31.17:880][841]LogViewport: Scene viewport resized to 915x615, mode Windowed.
+[2023.10.28-02.31.17:915][843]LogViewport: Scene viewport resized to 1087x615, mode Windowed.
+[2023.10.28-02.31.17:922][843]LogViewport: Scene viewport resized to 930x615, mode Windowed.
+[2023.10.28-02.31.17:963][845]LogViewport: Scene viewport resized to 1072x615, mode Windowed.
+[2023.10.28-02.31.17:971][845]LogViewport: Scene viewport resized to 945x615, mode Windowed.
+[2023.10.28-02.31.18:013][847]LogViewport: Scene viewport resized to 1063x615, mode Windowed.
+[2023.10.28-02.31.18:020][847]LogViewport: Scene viewport resized to 954x615, mode Windowed.
+[2023.10.28-02.31.18:060][849]LogViewport: Scene viewport resized to 1057x615, mode Windowed.
+[2023.10.28-02.31.18:067][849]LogViewport: Scene viewport resized to 960x615, mode Windowed.
+[2023.10.28-02.31.18:108][851]LogViewport: Scene viewport resized to 1048x615, mode Windowed.
+[2023.10.28-02.31.18:114][851]LogViewport: Scene viewport resized to 969x615, mode Windowed.
+[2023.10.28-02.31.18:154][853]LogViewport: Scene viewport resized to 1038x615, mode Windowed.
+[2023.10.28-02.31.18:161][853]LogViewport: Scene viewport resized to 979x615, mode Windowed.
+[2023.10.28-02.31.18:663][883]LogViewport: Scene viewport resized to 1037x615, mode Windowed.
+[2023.10.28-02.31.18:669][883]LogViewport: Scene viewport resized to 980x615, mode Windowed.
+[2023.10.28-02.31.18:754][888]LogViewport: Scene viewport resized to 1041x615, mode Windowed.
+[2023.10.28-02.31.18:761][888]LogViewport: Scene viewport resized to 976x615, mode Windowed.
+[2023.10.28-02.31.18:848][893]LogViewport: Scene viewport resized to 1042x615, mode Windowed.
+[2023.10.28-02.31.18:854][893]LogViewport: Scene viewport resized to 975x615, mode Windowed.
+[2023.10.28-02.31.24:153][210]LogViewport: Scene viewport resized to 1040x615, mode Windowed.
+[2023.10.28-02.31.24:159][210]LogViewport: Scene viewport resized to 973x615, mode Windowed.
+[2023.10.28-02.31.24:196][212]LogViewport: Scene viewport resized to 1033x615, mode Windowed.
+[2023.10.28-02.31.24:202][212]LogViewport: Scene viewport resized to 967x615, mode Windowed.
+[2023.10.28-02.31.24:241][214]LogViewport: Scene viewport resized to 1024x615, mode Windowed.
+[2023.10.28-02.31.24:248][214]LogViewport: Scene viewport resized to 959x615, mode Windowed.
+[2023.10.28-02.31.24:292][216]LogViewport: Scene viewport resized to 1008x615, mode Windowed.
+[2023.10.28-02.31.24:299][216]LogViewport: Scene viewport resized to 943x615, mode Windowed.
+[2023.10.28-02.31.24:340][218]LogViewport: Scene viewport resized to 994x615, mode Windowed.
+[2023.10.28-02.31.24:348][218]LogViewport: Scene viewport resized to 931x615, mode Windowed.
+[2023.10.28-02.31.24:389][220]LogViewport: Scene viewport resized to 976x615, mode Windowed.
+[2023.10.28-02.31.24:397][220]LogViewport: Scene viewport resized to 914x615, mode Windowed.
+[2023.10.28-02.31.24:437][222]LogViewport: Scene viewport resized to 965x615, mode Windowed.
+[2023.10.28-02.31.24:444][222]LogViewport: Scene viewport resized to 903x615, mode Windowed.
+[2023.10.28-02.31.24:504][225]LogViewport: Scene viewport resized to 962x615, mode Windowed.
+[2023.10.28-02.31.24:511][225]LogViewport: Scene viewport resized to 901x615, mode Windowed.
+[2023.10.28-02.31.25:637][292]LogViewport: Scene viewport resized to 964x615, mode Windowed.
+[2023.10.28-02.31.25:644][292]LogViewport: Scene viewport resized to 902x615, mode Windowed.
+[2023.10.28-02.31.25:685][294]LogViewport: Scene viewport resized to 972x615, mode Windowed.
+[2023.10.28-02.31.25:693][294]LogViewport: Scene viewport resized to 909x615, mode Windowed.
+[2023.10.28-02.31.25:735][296]LogViewport: Scene viewport resized to 981x615, mode Windowed.
+[2023.10.28-02.31.25:743][296]LogViewport: Scene viewport resized to 918x615, mode Windowed.
+[2023.10.28-02.31.28:244][444]LogViewport: Scene viewport resized to 982x615, mode Windowed.
+[2023.10.28-02.31.28:250][444]LogViewport: Scene viewport resized to 917x615, mode Windowed.
+[2023.10.28-02.31.28:286][446]LogViewport: Scene viewport resized to 967x615, mode Windowed.
+[2023.10.28-02.31.28:293][446]LogViewport: Scene viewport resized to 932x615, mode Windowed.
+[2023.10.28-02.31.28:329][448]LogViewport: Scene viewport resized to 945x615, mode Windowed.
+[2023.10.28-02.31.28:336][448]LogViewport: Scene viewport resized to 954x615, mode Windowed.
+[2023.10.28-02.31.28:375][450]LogViewport: Scene viewport resized to 935x615, mode Windowed.
+[2023.10.28-02.31.28:382][450]LogViewport: Scene viewport resized to 964x615, mode Windowed.
+[2023.10.28-02.31.28:720][470]LogViewport: Scene viewport resized to 942x615, mode Windowed.
+[2023.10.28-02.31.28:727][470]LogViewport: Scene viewport resized to 957x615, mode Windowed.
+[2023.10.28-02.31.28:764][472]LogViewport: Scene viewport resized to 957x615, mode Windowed.
+[2023.10.28-02.31.28:771][472]LogViewport: Scene viewport resized to 942x615, mode Windowed.
+[2023.10.28-02.31.28:810][474]LogViewport: Scene viewport resized to 968x615, mode Windowed.
+[2023.10.28-02.31.28:816][474]LogViewport: Scene viewport resized to 931x615, mode Windowed.
+[2023.10.28-02.31.28:853][476]LogViewport: Scene viewport resized to 974x615, mode Windowed.
+[2023.10.28-02.31.28:860][476]LogViewport: Scene viewport resized to 925x615, mode Windowed.
+[2023.10.28-02.31.28:896][478]LogViewport: Scene viewport resized to 988x615, mode Windowed.
+[2023.10.28-02.31.28:904][478]LogViewport: Scene viewport resized to 911x615, mode Windowed.
+[2023.10.28-02.31.28:941][480]LogViewport: Scene viewport resized to 992x615, mode Windowed.
+[2023.10.28-02.31.28:948][480]LogViewport: Scene viewport resized to 907x615, mode Windowed.
+[2023.10.28-02.31.29:189][494]LogViewport: Scene viewport resized to 990x615, mode Windowed.
+[2023.10.28-02.31.29:194][494]LogViewport: Scene viewport resized to 909x615, mode Windowed.
+[2023.10.28-02.31.29:298][500]LogViewport: Scene viewport resized to 1011x615, mode Windowed.
+[2023.10.28-02.31.29:304][500]LogViewport: Scene viewport resized to 888x615, mode Windowed.
+[2023.10.28-02.31.29:341][502]LogViewport: Scene viewport resized to 1079x615, mode Windowed.
+[2023.10.28-02.31.29:348][502]LogViewport: Scene viewport resized to 820x615, mode Windowed.
+[2023.10.28-02.31.29:389][504]LogViewport: Scene viewport resized to 1105x615, mode Windowed.
+[2023.10.28-02.31.29:396][504]LogViewport: Scene viewport resized to 794x615, mode Windowed.
+[2023.10.28-02.31.29:585][515]LogViewport: Scene viewport resized to 1094x615, mode Windowed.
+[2023.10.28-02.31.29:591][515]LogViewport: Scene viewport resized to 805x615, mode Windowed.
+[2023.10.28-02.31.29:630][517]LogViewport: Scene viewport resized to 1071x615, mode Windowed.
+[2023.10.28-02.31.29:637][517]LogViewport: Scene viewport resized to 827x615, mode Windowed.
+[2023.10.28-02.31.29:676][519]LogViewport: Scene viewport resized to 1044x615, mode Windowed.
+[2023.10.28-02.31.29:684][519]LogViewport: Scene viewport resized to 855x615, mode Windowed.
+[2023.10.28-02.31.29:724][521]LogViewport: Scene viewport resized to 1025x615, mode Windowed.
+[2023.10.28-02.31.29:732][521]LogViewport: Scene viewport resized to 874x615, mode Windowed.
+[2023.10.28-02.31.29:772][523]LogViewport: Scene viewport resized to 1002x615, mode Windowed.
+[2023.10.28-02.31.29:779][523]LogViewport: Scene viewport resized to 897x615, mode Windowed.
+[2023.10.28-02.31.29:818][525]LogViewport: Scene viewport resized to 972x615, mode Windowed.
+[2023.10.28-02.31.29:825][525]LogViewport: Scene viewport resized to 927x615, mode Windowed.
+[2023.10.28-02.31.29:865][527]LogViewport: Scene viewport resized to 931x615, mode Windowed.
+[2023.10.28-02.31.29:872][527]LogViewport: Scene viewport resized to 968x615, mode Windowed.
+[2023.10.28-02.31.29:894][528]LogViewport: Scene viewport resized to 919x615, mode Windowed.
+[2023.10.28-02.31.29:907][528]LogViewport: Scene viewport resized to 980x615, mode Windowed.
+[2023.10.28-02.31.29:944][530]LogViewport: Scene viewport resized to 894x615, mode Windowed.
+[2023.10.28-02.31.29:951][530]LogViewport: Scene viewport resized to 1005x615, mode Windowed.
+[2023.10.28-02.31.30:156][542]LogViewport: Scene viewport resized to 902x615, mode Windowed.
+[2023.10.28-02.31.30:162][542]LogViewport: Scene viewport resized to 997x615, mode Windowed.
+[2023.10.28-02.31.30:199][544]LogViewport: Scene viewport resized to 950x615, mode Windowed.
+[2023.10.28-02.31.30:206][544]LogViewport: Scene viewport resized to 949x615, mode Windowed.
+[2023.10.28-02.31.30:246][546]LogViewport: Scene viewport resized to 963x615, mode Windowed.
+[2023.10.28-02.31.30:253][546]LogViewport: Scene viewport resized to 936x615, mode Windowed.
+[2023.10.28-02.31.30:322][550]LogViewport: Scene viewport resized to 965x615, mode Windowed.
+[2023.10.28-02.31.30:329][550]LogViewport: Scene viewport resized to 934x615, mode Windowed.
+[2023.10.28-02.31.30:366][552]LogViewport: Scene viewport resized to 968x615, mode Windowed.
+[2023.10.28-02.31.30:373][552]LogViewport: Scene viewport resized to 931x615, mode Windowed.
+[2023.10.28-02.31.30:908][584]LogViewport: Scene viewport resized to 993x615, mode Windowed.
+[2023.10.28-02.31.30:914][584]LogViewport: Scene viewport resized to 905x615, mode Windowed.
+[2023.10.28-02.31.30:953][586]LogViewport: Scene viewport resized to 1008x615, mode Windowed.
+[2023.10.28-02.31.30:960][586]LogViewport: Scene viewport resized to 891x615, mode Windowed.
+[2023.10.28-02.31.30:998][588]LogViewport: Scene viewport resized to 1009x615, mode Windowed.
+[2023.10.28-02.31.31:005][588]LogViewport: Scene viewport resized to 890x615, mode Windowed.
+[2023.10.28-02.31.31:075][592]LogViewport: Scene viewport resized to 1014x615, mode Windowed.
+[2023.10.28-02.31.31:082][592]LogViewport: Scene viewport resized to 885x615, mode Windowed.
+[2023.10.28-02.31.31:120][594]LogViewport: Scene viewport resized to 1015x615, mode Windowed.
+[2023.10.28-02.31.31:127][594]LogViewport: Scene viewport resized to 884x615, mode Windowed.
+[2023.10.28-02.31.32:862][693]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-02.31.36:243][887]LogViewport: Scene viewport resized to 1016x615, mode Windowed.
+[2023.10.28-02.31.36:249][887]LogViewport: Scene viewport resized to 885x615, mode Windowed.
+[2023.10.28-02.31.36:289][889]LogViewport: Scene viewport resized to 1021x615, mode Windowed.
+[2023.10.28-02.31.36:295][889]LogViewport: Scene viewport resized to 890x615, mode Windowed.
+[2023.10.28-02.31.36:337][891]LogViewport: Scene viewport resized to 1038x615, mode Windowed.
+[2023.10.28-02.31.36:344][891]LogViewport: Scene viewport resized to 904x615, mode Windowed.
+[2023.10.28-02.31.36:391][893]LogViewport: Scene viewport resized to 1056x615, mode Windowed.
+[2023.10.28-02.31.36:397][893]LogViewport: Scene viewport resized to 919x615, mode Windowed.
+[2023.10.28-02.31.36:439][895]LogViewport: Scene viewport resized to 1076x615, mode Windowed.
+[2023.10.28-02.31.36:446][895]LogViewport: Scene viewport resized to 937x615, mode Windowed.
+[2023.10.28-02.31.36:490][897]LogViewport: Scene viewport resized to 1109x615, mode Windowed.
+[2023.10.28-02.31.36:497][897]LogViewport: Scene viewport resized to 966x615, mode Windowed.
+[2023.10.28-02.31.36:541][899]LogViewport: Scene viewport resized to 1130x615, mode Windowed.
+[2023.10.28-02.31.36:548][899]LogViewport: Scene viewport resized to 984x615, mode Windowed.
+[2023.10.28-02.31.36:831][914]LogViewport: Scene viewport resized to 1143x615, mode Windowed.
+[2023.10.28-02.31.36:837][914]LogViewport: Scene viewport resized to 996x615, mode Windowed.
+[2023.10.28-02.31.41:030][162]LogViewport: Scene viewport resized to 1137x615, mode Windowed.
+[2023.10.28-02.31.41:036][162]LogViewport: Scene viewport resized to 1002x615, mode Windowed.
+[2023.10.28-02.31.41:076][164]LogViewport: Scene viewport resized to 1102x615, mode Windowed.
+[2023.10.28-02.31.41:084][164]LogViewport: Scene viewport resized to 1038x615, mode Windowed.
+[2023.10.28-02.31.41:126][166]LogViewport: Scene viewport resized to 1087x615, mode Windowed.
+[2023.10.28-02.31.41:133][166]LogViewport: Scene viewport resized to 1052x615, mode Windowed.
+[2023.10.28-02.31.41:175][168]LogViewport: Scene viewport resized to 1076x615, mode Windowed.
+[2023.10.28-02.31.41:182][168]LogViewport: Scene viewport resized to 1064x615, mode Windowed.
+[2023.10.28-02.31.41:222][170]LogViewport: Scene viewport resized to 1067x615, mode Windowed.
+[2023.10.28-02.31.41:229][170]LogViewport: Scene viewport resized to 1073x615, mode Windowed.
+[2023.10.28-02.31.41:270][172]LogViewport: Scene viewport resized to 1058x615, mode Windowed.
+[2023.10.28-02.31.41:277][172]LogViewport: Scene viewport resized to 1081x615, mode Windowed.
+[2023.10.28-02.31.41:319][174]LogViewport: Scene viewport resized to 1048x615, mode Windowed.
+[2023.10.28-02.31.41:326][174]LogViewport: Scene viewport resized to 1091x615, mode Windowed.
+[2023.10.28-02.31.41:649][193]LogViewport: Scene viewport resized to 1052x615, mode Windowed.
+[2023.10.28-02.31.41:655][193]LogViewport: Scene viewport resized to 1088x615, mode Windowed.
+[2023.10.28-02.31.41:693][195]LogViewport: Scene viewport resized to 1081x615, mode Windowed.
+[2023.10.28-02.31.41:700][195]LogViewport: Scene viewport resized to 1058x615, mode Windowed.
+[2023.10.28-02.31.41:739][197]LogViewport: Scene viewport resized to 1093x615, mode Windowed.
+[2023.10.28-02.31.41:747][197]LogViewport: Scene viewport resized to 1047x615, mode Windowed.
+[2023.10.28-02.31.42:206][224]LogViewport: Scene viewport resized to 1086x615, mode Windowed.
+[2023.10.28-02.31.42:212][224]LogViewport: Scene viewport resized to 1053x615, mode Windowed.
+[2023.10.28-02.31.42:302][229]LogViewport: Scene viewport resized to 1076x615, mode Windowed.
+[2023.10.28-02.31.42:308][229]LogViewport: Scene viewport resized to 1064x615, mode Windowed.
+[2023.10.28-02.31.42:479][239]LogViewport: Scene viewport resized to 1077x615, mode Windowed.
+[2023.10.28-02.31.42:485][239]LogViewport: Scene viewport resized to 1062x615, mode Windowed.
+[2023.10.28-02.50.36:061][399]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Art/Zombies/Animated/running_crawl.running_crawl
+[2023.10.28-02.50.36:062][399]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.50.36:062][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.50.36:069][399]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_51:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2023.10.28-02.50.36:275][399]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.50.36:275][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.50.36:364][399]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.50.36:365][399]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.50.36:378][399]LogViewport: Scene viewport resized to 1163x752, mode Windowed.
+[2023.10.28-02.50.36:388][399]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2023.10.28-02.50.38:895][528]LogViewport: Scene viewport resized to 1172x752, mode Windowed.
+[2023.10.28-02.50.38:931][530]LogViewport: Scene viewport resized to 1312x752, mode Windowed.
+[2023.10.28-02.50.38:984][532]LogViewport: Scene viewport resized to 1595x752, mode Windowed.
+[2023.10.28-02.50.39:041][534]LogViewport: Scene viewport resized to 1761x752, mode Windowed.
+[2023.10.28-02.50.39:110][536]LogViewport: Scene viewport resized to 1927x752, mode Windowed.
+[2023.10.28-02.50.40:012][579]LogViewport: Scene viewport resized to 192x192, mode Windowed.
+[2023.10.28-02.50.40:319][594]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.50.40:319][594]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.50.40:333][594]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.50.40:333][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.50.45:117][831]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.50.45:118][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.50.45:131][831]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.50.45:131][831]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.50.46:765][918]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.50.46:765][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.50.46:779][918]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.50.46:779][918]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.50.48:922][ 34]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.50.48:922][ 34]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.50.48:936][ 34]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.50.48:937][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.50.51:748][186]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.50.51:748][186]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.50.51:762][186]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.50.51:763][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.50.56:809][457]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.50.56:809][457]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.50.56:823][457]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.50.56:823][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.00:394][646]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.00:394][646]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.00:408][646]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.00:408][646]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.02:557][761]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.02:557][761]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.02:573][761]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.02:573][761]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.05:117][887]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.05:117][887]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.05:132][887]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.05:132][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.07:888][ 31]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.07:888][ 31]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.07:902][ 31]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.07:903][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.13:423][298]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.13:423][298]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.13:437][298]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.13:437][298]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.15:110][385]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.15:110][385]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.15:124][385]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.15:124][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.15:988][429]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.15:988][429]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.16:002][429]LogWorld: UWorld::CleanupWorld for World_65, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.16:002][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.17:821][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.17:821][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.17:835][524]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.17:835][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.23:544][802]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.23:544][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.23:558][802]LogWorld: UWorld::CleanupWorld for World_67, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.23:558][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.26:680][968]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.26:680][968]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.26:695][968]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.26:695][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.27:607][ 15]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.27:607][ 15]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.27:622][ 15]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.27:622][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.29:198][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.29:198][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.29:213][ 97]LogWorld: UWorld::CleanupWorld for World_70, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.29:213][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.32:015][243]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.32:016][243]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.32:030][243]LogWorld: UWorld::CleanupWorld for World_71, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.32:030][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.33:897][340]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-02.51.33:897][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-02.51.33:912][340]LogWorld: UWorld::CleanupWorld for World_72, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.33:912][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.35:679][431]LogSlate: Window 'zombie_run' being destroyed
+[2023.10.28-02.51.35:684][431]LogSlate: Window 'zombie_run' being destroyed
+[2023.10.28-02.51.35:698][431]LogWorld: UWorld::CleanupWorld for World_73, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.35:698][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.35:705][431]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.35:705][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.35:745][431]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-02.51.35:745][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-02.51.37:573][539]LogViewport: Scene viewport resized to 1077x627, mode Windowed.
+[2023.10.28-02.51.37:578][539]LogViewport: Scene viewport resized to 1062x627, mode Windowed.
+[2023.10.28-02.51.37:597][540]LogViewport: Scene viewport resized to 1077x644, mode Windowed.
+[2023.10.28-02.51.37:609][540]LogViewport: Scene viewport resized to 1062x644, mode Windowed.
+[2023.10.28-02.51.37:642][542]LogViewport: Scene viewport resized to 1077x697, mode Windowed.
+[2023.10.28-02.51.37:647][542]LogViewport: Scene viewport resized to 1062x697, mode Windowed.
+[2023.10.28-02.51.37:680][544]LogViewport: Scene viewport resized to 1077x726, mode Windowed.
+[2023.10.28-02.51.37:685][544]LogViewport: Scene viewport resized to 1062x726, mode Windowed.
+[2023.10.28-02.51.37:885][556]LogViewport: Scene viewport resized to 1077x723, mode Windowed.
+[2023.10.28-02.51.37:890][556]LogViewport: Scene viewport resized to 1062x723, mode Windowed.
+[2023.10.28-02.51.37:925][558]LogViewport: Scene viewport resized to 1077x713, mode Windowed.
+[2023.10.28-02.51.37:929][558]LogViewport: Scene viewport resized to 1062x713, mode Windowed.
+[2023.10.28-02.51.37:995][562]LogViewport: Scene viewport resized to 1077x709, mode Windowed.
+[2023.10.28-02.51.38:000][562]LogViewport: Scene viewport resized to 1062x709, mode Windowed.
+[2023.10.28-02.51.38:166][572]LogViewport: Scene viewport resized to 1077x708, mode Windowed.
+[2023.10.28-02.51.38:171][572]LogViewport: Scene viewport resized to 1062x708, mode Windowed.
+[2023.10.28-02.51.38:203][574]LogViewport: Scene viewport resized to 1077x707, mode Windowed.
+[2023.10.28-02.51.38:208][574]LogViewport: Scene viewport resized to 1062x707, mode Windowed.
+[2023.10.28-02.55.42:534][906]LogShaderCompilers: Display: ================================================
+[2023.10.28-02.55.42:534][906]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.28-02.55.42:534][906]LogShaderCompilers: Display: Total job queries 460, among them cache hits 201 (43.70%)
+[2023.10.28-02.55.42:534][906]LogShaderCompilers: Display: Tracking 213 distinct input hashes that result in 74 distinct outputs (34.74%)
+[2023.10.28-02.55.42:534][906]LogShaderCompilers: Display: RAM used: 545.90 KiB of 1.60 GiB budget. Usage: 0.03%
+[2023.10.28-02.55.42:534][906]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.28-02.55.42:534][906]LogShaderCompilers: Display: Shaders Compiled: 197
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Jobs assigned 205, completed 197 (96.10%)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Average time worker was idle: 173.59 s
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 1.44 s
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Job execution time: average 3.16 s, max 9.84 s
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Job life time (pending + execution): average 3.28 s, max 9.85
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 48.57 s
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Jobs were issued in 161 batches (only local compilation was used), average 1.27 jobs/batch
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Average processing rate: 4.06 jobs/sec
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Total thread time: 226.921 s
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Total thread preprocess time: 7.366 s
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Percentage time preprocessing: 3.25%
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Effective parallelization: 4.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 2.04 sec, max 3.08 sec, min 1.18 sec)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.98 sec, max 2.98 sec, min 1.09 sec)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.92 sec, max 3.00 sec, min 1.10 sec)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 1.90 sec, max 2.87 sec, min 1.03 sec)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 1.87 sec, max 2.89 sec, min 1.04 sec)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.09% of total time (compiled   35 times, average 0.98 sec, max 2.50 sec, min 0.55 sec)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.01% of total time (compiled   35 times, average 0.91 sec, max 2.09 sec, min 0.59 sec)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.62% of total time (compiled   21 times, average 0.71 sec, max 1.43 sec, min 0.50 sec)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.30% of total time (compiled    7 times, average 2.04 sec, max 3.08 sec, min 1.18 sec)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.11% of total time (compiled    7 times, average 1.98 sec, max 2.98 sec, min 1.09 sec)
+[2023.10.28-02.55.42:535][906]LogShaderCompilers: Display: ================================================
+[2023.10.28-02.56.09:262][461]LogSlate: Window '项目设置' being destroyed
+[2023.10.28-02.56.09:266][461]LogSlate: Window '项目设置' being destroyed
+[2023.10.28-02.56.10:727][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.28-02.56.12:700][662]Cmd: SELECT NONE
+[2023.10.28-02.56.19:103][ 42]LogViewport: Scene viewport resized to 1068x707, mode Windowed.
+[2023.10.28-02.56.19:108][ 42]LogViewport: Scene viewport resized to 1054x707, mode Windowed.
+[2023.10.28-02.56.19:143][ 44]LogViewport: Scene viewport resized to 1047x707, mode Windowed.
+[2023.10.28-02.56.19:147][ 44]LogViewport: Scene viewport resized to 1033x707, mode Windowed.
+[2023.10.28-02.56.19:182][ 46]LogViewport: Scene viewport resized to 1011x707, mode Windowed.
+[2023.10.28-02.56.19:187][ 46]LogViewport: Scene viewport resized to 998x707, mode Windowed.
+[2023.10.28-02.56.19:225][ 48]LogViewport: Scene viewport resized to 1002x707, mode Windowed.
+[2023.10.28-02.56.19:230][ 48]LogViewport: Scene viewport resized to 989x707, mode Windowed.
+[2023.10.28-02.56.19:265][ 50]LogViewport: Scene viewport resized to 1001x707, mode Windowed.
+[2023.10.28-02.56.19:270][ 50]LogViewport: Scene viewport resized to 988x707, mode Windowed.
+[2023.10.28-02.56.19:301][ 52]LogViewport: Scene viewport resized to 999x707, mode Windowed.
+[2023.10.28-02.56.19:306][ 52]LogViewport: Scene viewport resized to 986x707, mode Windowed.
+[2023.10.28-02.56.19:341][ 54]LogViewport: Scene viewport resized to 997x707, mode Windowed.
+[2023.10.28-02.56.19:345][ 54]LogViewport: Scene viewport resized to 984x707, mode Windowed.
+[2023.10.28-02.56.19:359][ 54]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 59982
+[2023.10.28-02.56.19:359][ 54]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2023.10.28-02.56.19:381][ 56]LogViewport: Scene viewport resized to 980x707, mode Windowed.
+[2023.10.28-02.56.19:386][ 56]LogViewport: Scene viewport resized to 967x707, mode Windowed.
+[2023.10.28-02.56.19:421][ 58]LogViewport: Scene viewport resized to 967x707, mode Windowed.
+[2023.10.28-02.56.19:426][ 58]LogViewport: Scene viewport resized to 955x707, mode Windowed.
+[2023.10.28-02.56.19:593][ 68]LogViewport: Scene viewport resized to 969x707, mode Windowed.
+[2023.10.28-02.56.19:598][ 68]LogViewport: Scene viewport resized to 956x707, mode Windowed.
+[2023.10.28-02.56.19:633][ 70]LogViewport: Scene viewport resized to 978x707, mode Windowed.
+[2023.10.28-02.56.19:638][ 70]LogViewport: Scene viewport resized to 965x707, mode Windowed.
+[2023.10.28-02.56.19:672][ 72]LogViewport: Scene viewport resized to 989x707, mode Windowed.
+[2023.10.28-02.56.19:676][ 72]LogViewport: Scene viewport resized to 976x707, mode Windowed.
+[2023.10.28-02.56.19:710][ 74]LogViewport: Scene viewport resized to 1009x707, mode Windowed.
+[2023.10.28-02.56.19:715][ 74]LogViewport: Scene viewport resized to 995x707, mode Windowed.
+[2023.10.28-02.56.19:749][ 76]LogViewport: Scene viewport resized to 1021x707, mode Windowed.
+[2023.10.28-02.56.19:754][ 76]LogViewport: Scene viewport resized to 1007x707, mode Windowed.
+[2023.10.28-02.56.19:788][ 78]LogViewport: Scene viewport resized to 1022x707, mode Windowed.
+[2023.10.28-02.56.19:792][ 78]LogViewport: Scene viewport resized to 1008x707, mode Windowed.
+[2023.10.28-02.56.19:990][ 90]LogViewport: Scene viewport resized to 1016x707, mode Windowed.
+[2023.10.28-02.56.19:995][ 90]LogViewport: Scene viewport resized to 1003x707, mode Windowed.
+[2023.10.28-02.56.20:029][ 92]LogViewport: Scene viewport resized to 1004x707, mode Windowed.
+[2023.10.28-02.56.20:034][ 92]LogViewport: Scene viewport resized to 991x707, mode Windowed.
+[2023.10.28-02.56.20:068][ 94]LogViewport: Scene viewport resized to 998x707, mode Windowed.
+[2023.10.28-02.56.20:072][ 94]LogViewport: Scene viewport resized to 985x707, mode Windowed.
+[2023.10.28-02.56.20:104][ 96]LogViewport: Scene viewport resized to 992x707, mode Windowed.
+[2023.10.28-02.56.20:108][ 96]LogViewport: Scene viewport resized to 979x707, mode Windowed.
+[2023.10.28-02.56.20:128][ 97]LogViewport: Scene viewport resized to 990x707, mode Windowed.
+[2023.10.28-02.56.20:135][ 97]LogViewport: Scene viewport resized to 977x707, mode Windowed.
+[2023.10.28-02.56.20:167][ 99]LogViewport: Scene viewport resized to 988x707, mode Windowed.
+[2023.10.28-02.56.20:172][ 99]LogViewport: Scene viewport resized to 976x707, mode Windowed.
+[2023.10.28-02.56.20:205][101]LogViewport: Scene viewport resized to 985x707, mode Windowed.
+[2023.10.28-02.56.20:210][101]LogViewport: Scene viewport resized to 973x707, mode Windowed.
+[2023.10.28-02.59.36:436][872]LogDerivedDataCache: C:/Users/27776/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.119 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4880 files in 6168 folders with total size 746 MiB.
+[2023.10.28-03.08.15:818][885]LogViewport: Scene viewport resized to 985x686, mode Windowed.
+[2023.10.28-03.08.15:822][885]LogViewport: Scene viewport resized to 973x686, mode Windowed.
+[2023.10.28-03.08.15:856][887]LogViewport: Scene viewport resized to 985x631, mode Windowed.
+[2023.10.28-03.08.15:860][887]LogViewport: Scene viewport resized to 973x631, mode Windowed.
+[2023.10.28-03.08.15:892][889]LogViewport: Scene viewport resized to 985x550, mode Windowed.
+[2023.10.28-03.08.15:897][889]LogViewport: Scene viewport resized to 973x550, mode Windowed.
+[2023.10.28-03.08.15:929][891]LogViewport: Scene viewport resized to 985x502, mode Windowed.
+[2023.10.28-03.08.15:933][891]LogViewport: Scene viewport resized to 973x502, mode Windowed.
+[2023.10.28-03.08.15:965][893]LogViewport: Scene viewport resized to 985x489, mode Windowed.
+[2023.10.28-03.08.15:970][893]LogViewport: Scene viewport resized to 973x489, mode Windowed.
+[2023.10.28-03.08.16:218][908]LogViewport: Scene viewport resized to 985x476, mode Windowed.
+[2023.10.28-03.08.16:223][908]LogViewport: Scene viewport resized to 973x476, mode Windowed.
+[2023.10.28-03.08.16:255][910]LogViewport: Scene viewport resized to 985x462, mode Windowed.
+[2023.10.28-03.08.16:260][910]LogViewport: Scene viewport resized to 973x462, mode Windowed.
+[2023.10.28-03.08.16:292][912]LogViewport: Scene viewport resized to 985x453, mode Windowed.
+[2023.10.28-03.08.16:296][912]LogViewport: Scene viewport resized to 973x453, mode Windowed.
+[2023.10.28-03.08.16:330][914]LogViewport: Scene viewport resized to 985x450, mode Windowed.
+[2023.10.28-03.08.16:334][914]LogViewport: Scene viewport resized to 973x450, mode Windowed.
+[2023.10.28-03.08.25:088][424]LogContentBrowser: Deferred new asset folder creation: 新建文件夹
+[2023.10.28-03.08.25:118][424]LogContentBrowser: Creating deferred item: 新建文件夹
+[2023.10.28-03.08.25:129][425]LogContentBrowser: Renaming the item being created (Deferred Item: 新建文件夹).
+[2023.10.28-03.08.29:488][687]LogContentBrowser: Attempting asset rename: 新建文件夹 -> GlassMaterial
+[2023.10.28-03.08.29:489][687]LogContentBrowser: End creating deferred item 新建文件夹
+[2023.10.28-03.08.32:738][871]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.10.28-03.08.32:748][871]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.10.28-03.08.32:779][873]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.10.28-03.08.36:086][ 72]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Glass
+[2023.10.28-03.08.36:087][ 72]LogContentBrowser: End creating deferred item NewMaterial
+[2023.10.28-03.08.36:268][ 83]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Art/GlassMaterial/M_Glass.M_Glass
+[2023.10.28-03.08.36:271][ 83]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-03.08.36:272][ 83]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-03.08.36:466][ 83]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.08.36:466][ 83]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.36:466][ 83]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.08.36:474][ 83]LogViewport: Scene viewport resized to 596x497, mode Windowed.
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: ================================================
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Total job queries 464, among them cache hits 201 (43.32%)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Tracking 230 distinct input hashes that result in 86 distinct outputs (37.39%)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: RAM used: 580.85 KiB of 1.60 GiB budget. Usage: 0.03%
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Shaders Compiled: 214
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Jobs assigned 217, completed 214 (98.62%)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Average time worker was idle: 179.69 s
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 1.77 s
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Job execution time: average 2.99 s, max 9.84 s
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Job life time (pending + execution): average 3.16 s, max 9.85
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 50.93 s
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Jobs were issued in 173 batches (only local compilation was used), average 1.25 jobs/batch
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Average processing rate: 4.20 jobs/sec
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Total thread time: 236.984 s
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Total thread preprocess time: 7.772 s
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Percentage time preprocessing: 3.28%
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Effective parallelization: 4.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 2.04 sec, max 3.08 sec, min 1.18 sec)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.98 sec, max 2.98 sec, min 1.09 sec)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.92 sec, max 3.00 sec, min 1.10 sec)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 1.90 sec, max 2.87 sec, min 1.03 sec)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    7 times, average 1.87 sec, max 2.89 sec, min 1.04 sec)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 15.72% of total time (compiled   38 times, average 0.98 sec, max 2.50 sec, min 0.55 sec)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.65% of total time (compiled   38 times, average 0.91 sec, max 2.09 sec, min 0.59 sec)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.20% of total time (compiled   24 times, average 0.71 sec, max 1.43 sec, min 0.50 sec)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.04% of total time (compiled    7 times, average 2.04 sec, max 3.08 sec, min 1.18 sec)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.85% of total time (compiled    7 times, average 1.98 sec, max 2.98 sec, min 1.09 sec)
+[2023.10.28-03.08.37:063][111]LogShaderCompilers: Display: ================================================
+[2023.10.28-03.08.37:484][135]MaterialEditorStats: Base pass shader: 174 instructions
+[2023.10.28-03.08.37:484][135]MaterialEditorStats: Base pass vertex shader: 225 instructions
+[2023.10.28-03.08.37:484][135]MaterialEditorStats: Texture samplers: 4/16
+[2023.10.28-03.08.37:484][135]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.37:484][135]MaterialEditorStats: Shader Count: 4
+[2023.10.28-03.08.42:318][419]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.08.42:318][419]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.42:318][419]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.08.43:622][491]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.08.43:622][491]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.08.43:622][491]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.43:622][491]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.08.52:437][  7]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.08.52:437][  7]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.52:437][  7]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.08.53:369][ 60]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.08.53:369][ 60]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.08.53:369][ 60]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.53:369][ 60]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.08.53:694][ 77]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.08.53:694][ 77]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.53:694][ 77]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.08.54:684][125]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.08.54:684][125]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.08.54:684][125]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.54:684][125]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.08.57:172][266]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.08.57:173][266]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.57:173][266]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.08.57:270][268]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.08.57:270][268]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.08.57:270][268]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.57:270][268]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.08.59:084][351]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.08.59:084][351]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.59:084][351]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.08.59:159][353]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.08.59:159][353]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.08.59:159][353]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.08.59:159][353]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.09.01:570][494]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.09.01:570][494]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.09.01:570][494]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.01:570][494]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.09.04:119][626]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.09.04:119][626]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.04:119][626]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.09.12:241][673]LogSlate: Window '取色器' being destroyed
+[2023.10.28-03.09.13:719][748]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.09.13:719][748]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.09.13:719][748]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.13:719][748]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.09.18:345][ 22]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.09.18:345][ 22]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.18:345][ 22]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.09.19:218][ 68]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.09.19:218][ 68]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.09.19:218][ 68]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.19:218][ 68]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.09.22:852][277]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.09.22:852][277]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.22:852][277]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.09.23:675][303]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.09.23:675][303]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.09.23:675][303]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.23:675][303]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.09.29:721][662]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.09.29:722][662]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.09.29:722][662]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.29:722][662]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.09.35:859][  3]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.09.35:859][  3]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.35:859][  3]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.09.36:770][ 54]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.09.36:770][ 54]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.09.36:770][ 54]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.36:770][ 54]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.09.44:965][517]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.09.44:965][517]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.44:965][517]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.09.45:924][563]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.09.45:924][563]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.09.45:924][563]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.45:924][563]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.09.52:795][969]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.09.52:803][969]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.09.52:807][969]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.09.52:816][969]MaterialEditorStats: Error: [SM5] ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+[2023.10.28-03.09.54:240][ 53]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.09.57:586][249]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.09.57:586][249]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.57:586][249]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.09.57:638][251]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.09.57:638][251]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.09.57:638][251]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.09.57:638][251]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.10.11:516][ 63]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.10.11:516][ 63]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.11:516][ 63]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.10.13:217][154]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.10.13:217][154]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.10.13:217][154]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.13:217][154]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.10.17:788][418]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.10.17:788][418]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.17:788][418]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.10.18:728][467]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.10.18:728][467]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.10.18:728][467]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.18:728][467]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.10.21:946][634]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.10.21:946][634]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.21:946][634]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.10.21:992][636]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.10.21:992][636]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.10.21:992][636]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.21:992][636]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.10.23:538][724]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.10.23:538][724]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.23:538][724]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.10.26:995][917]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.10.26:995][917]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.10.26:995][917]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.26:996][917]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.10.33:399][277]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.10.33:407][277]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.10.33:410][277]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.10.33:418][277]MaterialEditorStats: Error: [SM5] ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+[2023.10.28-03.10.34:622][348]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.10.39:231][620]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.10.39:231][620]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.39:231][620]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.10.40:284][674]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.10.40:284][674]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.10.40:284][674]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.40:284][674]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.10.42:330][789]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.10.42:330][789]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.42:330][789]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.10.42:462][791]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.10.42:462][791]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.10.42:462][791]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.42:462][791]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.10.58:309][711]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.10.58:309][711]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.58:309][711]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.10.58:365][714]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.10.58:366][714]MaterialEditorStats: Texture samplers: 7/16
+[2023.10.28-03.10.58:366][714]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.10.58:366][714]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.11.00:265][813]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.11.00:265][813]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.00:265][813]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.11.01:177][862]MaterialEditorStats: Texture samplers: 2/16
+[2023.10.28-03.11.01:177][862]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.01:177][862]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.11.01:893][893]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.11.01:893][893]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.01:893][893]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.11.05:614][ 80]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.11.05:614][ 80]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.11.05:614][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.05:614][ 80]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.11.17:703][796]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.11.17:703][796]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.17:703][796]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.11.18:664][845]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.11.18:664][845]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.11.18:664][845]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.18:664][845]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.11.20:476][942]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.11.20:476][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.20:476][942]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.11.21:668][997]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.11.21:668][997]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.11.21:668][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.21:668][997]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.11.29:071][377]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.11.29:071][377]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.11.29:071][377]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.29:071][377]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.11.37:860][885]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.11.37:860][885]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.37:860][885]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: ================================================
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: Total job queries 621, among them cache hits 300 (48.31%)
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: Tracking 271 distinct input hashes that result in 106 distinct outputs (39.11%)
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: RAM used: 827.78 KiB of 1.60 GiB budget. Usage: 0.05%
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: Shaders Compiled: 255
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: Jobs assigned 255, completed 255 (100.00%)
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: Average time worker was idle: 148.11 s
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 1.77 s
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: Job execution time: average 2.95 s, max 10.62 s
+[2023.10.28-03.11.37:876][886]LogShaderCompilers: Display: Job life time (pending + execution): average 3.10 s, max 10.71
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 130.72 s
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: Jobs were issued in 211 batches (only local compilation was used), average 1.21 jobs/batch
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: Average processing rate: 1.95 jobs/sec
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: Total thread time: 344.878 s
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: Total thread preprocess time: 9.17 s
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: Percentage time preprocessing: 2.66%
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: Effective parallelization: 2.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   25 times, average 4.05 sec, max 10.59 sec, min 0.62 sec)
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    7 times, average 2.04 sec, max 3.08 sec, min 1.18 sec)
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    7 times, average 1.98 sec, max 2.98 sec, min 1.09 sec)
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    7 times, average 1.92 sec, max 3.00 sec, min 1.10 sec)
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    7 times, average 1.90 sec, max 2.87 sec, min 1.03 sec)
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 29.39% of total time (compiled   25 times, average 4.05 sec, max 10.59 sec, min 0.62 sec)
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.47% of total time (compiled   58 times, average 0.86 sec, max 2.09 sec, min 0.59 sec)
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.20% of total time (compiled   40 times, average 0.97 sec, max 2.50 sec, min 0.55 sec)
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.10% of total time (compiled   25 times, average 0.70 sec, max 1.43 sec, min 0.50 sec)
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 4.15% of total time (compiled    7 times, average 2.04 sec, max 3.08 sec, min 1.18 sec)
+[2023.10.28-03.11.37:877][886]LogShaderCompilers: Display: ================================================
+[2023.10.28-03.11.37:890][887]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.11.37:890][887]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.11.37:890][887]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.37:890][887]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.11.40:098][ 19]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.11.40:098][ 19]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.40:098][ 19]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.11.40:130][ 21]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.11.40:130][ 21]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.11.40:130][ 21]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.40:130][ 21]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.11.40:969][ 71]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.11.40:969][ 71]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.40:969][ 71]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.11.41:001][ 73]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.11.41:001][ 73]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.11.41:001][ 73]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.41:001][ 73]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.11.46:358][390]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Volume materials must use an Additive blend mode.
+
+[2023.10.28-03.11.46:365][390]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Volume materials must use an Additive blend mode.
+
+[2023.10.28-03.11.46:369][390]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Volume materials must use an Additive blend mode.
+
+[2023.10.28-03.11.46:376][390]MaterialEditorStats: Error: [SM5] Volume materials must use an Additive blend mode.
+[2023.10.28-03.11.47:114][433]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	Volume materials must use an Additive blend mode.
+
+[2023.10.28-03.11.47:944][479]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.11.47:944][479]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.47:944][479]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.11.48:001][481]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.11.48:001][481]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.11.48:001][481]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.11.48:001][481]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.12.06:235][563]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.12.06:235][563]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.12.06:235][563]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.12.06:286][565]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.12.06:286][565]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.12.06:287][565]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.12.06:287][565]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.12.11:507][861]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.11:514][861]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.11:517][861]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.11:525][861]MaterialEditorStats: Error: [SM5] ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+[2023.10.28-03.12.12:447][915]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.14:186][ 16]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials must be translucent.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.14:189][ 16]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials must be translucent.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.14:192][ 16]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials must be translucent.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.14:200][ 16]MaterialEditorStats: Error: [SM5] ThinTranslucent materials must be translucent.
+[2023.10.28-03.12.14:200][ 16]MaterialEditorStats: Error: [SM5] ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+[2023.10.28-03.12.15:006][ 64]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials must be translucent.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.17:481][210]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.17:484][210]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.17:488][210]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.17:495][210]MaterialEditorStats: Error: [SM5] ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+[2023.10.28-03.12.17:968][238]LogMaterial: Warning: [AssetLog] /Engine/Transient.M_Glass: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	ThinTranslucent materials requires the use of ThinTranslucentMaterial output node.
+
+[2023.10.28-03.12.22:560][509]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.12.22:560][509]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.12.22:560][509]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.12.22:611][511]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.12.22:611][511]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.12.22:611][511]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.12.22:611][511]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.12.26:856][762]LogMaterialEditor: Applying material M_Glass
+[2023.10.28-03.12.26:910][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.10.28-03.12.27:726][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.10.28-03.12.27:736][762]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.12.27:736][762]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.12.27:736][762]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.12.28:764][816]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.12.28:764][816]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.12.28:764][816]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.12.28:764][816]MaterialEditorStats: Shader Count: 3
+[2023.10.28-03.12.34:950][170]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.12.34:950][170]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.12.34:950][170]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.12.34:950][170]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.12.53:396][264]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.12.53:396][264]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.12.53:396][264]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.12.54:552][324]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.12.54:553][324]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.12.54:553][324]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.12.54:553][324]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.13.01:211][707]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.01:211][707]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.13.01:211][707]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.01:211][707]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.13.04:990][918]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.13.04:990][918]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.04:990][918]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.13.05:021][920]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.05:021][920]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.13.05:021][920]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.05:021][920]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.13.07:813][ 87]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.13.07:813][ 87]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.07:813][ 87]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.13.08:812][139]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.08:812][139]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.13.08:812][139]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.08:812][139]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.13.15:587][528]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.15:587][528]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.13.15:587][528]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.15:587][528]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.13.17:385][622]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.13.17:385][622]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.17:385][622]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.13.18:391][674]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.18:391][674]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.13.18:391][674]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.18:391][674]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.13.25:159][ 62]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.25:159][ 62]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.13.25:159][ 62]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.25:159][ 62]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.13.29:053][281]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.13.29:054][281]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.29:054][281]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.13.29:085][283]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.29:085][283]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.13.29:085][283]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.29:085][283]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.13.31:009][398]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.13.31:009][398]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.31:009][398]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.13.31:979][448]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.31:979][448]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.13.31:979][448]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.31:979][448]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.13.38:845][842]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.38:845][842]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.13.38:845][842]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.38:845][842]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.13.44:434][163]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.13.44:434][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.44:434][163]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.13.45:436][215]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.45:436][215]MaterialEditorStats: Texture samplers: 3/16
+[2023.10.28-03.13.45:436][215]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.45:436][215]MaterialEditorStats: Shader Count: 1
+[2023.10.28-03.13.47:447][326]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.13.47:447][326]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.47:447][326]MaterialEditorStats: Shader Count: 0
+[2023.10.28-03.13.47:483][328]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.47:483][328]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.13.47:483][328]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.47:483][328]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.13.50:995][529]LogMaterialEditor: Applying material M_Glass
+[2023.10.28-03.13.51:053][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.10.28-03.13.51:318][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.10.28-03.13.51:342][529]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.13.51:342][529]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.51:342][529]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.13.51:617][536]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.13.51:617][536]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.13.51:617][536]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.13.51:617][536]MaterialEditorStats: Shader Count: 4
+[2023.10.28-03.14.10:665][667]LogMaterialEditor: Applying material M_Glass
+[2023.10.28-03.14.10:714][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.10.28-03.14.10:923][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.10.28-03.14.10:932][667]MaterialEditorStats: Texture samplers: 0/16
+[2023.10.28-03.14.10:932][667]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.14.10:932][667]MaterialEditorStats: Shader Count: 2
+[2023.10.28-03.14.10:963][669]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.14.10:963][669]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.14.10:963][669]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.14.10:963][669]MaterialEditorStats: Shader Count: 4
+[2023.10.28-03.14.13:733][835]LogMaterialEditor: Saving and Compiling material M_Glass
+[2023.10.28-03.14.13:735][835]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.28-03.14.15:842][835]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' exceeded budget of 2.000000s
+[2023.10.28-03.14.35:228][835]LogStall: Stall detector 'FShaderCompilingManager::BlockOnShaderMapCompletion' complete in 0.000045s (19.390854s overbudget)
+[2023.10.28-03.14.35:249][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Art/GlassMaterial/M_Glass" FILE="E:/UE5.2/GameJamGroup/ZoombieSlayer/Content/Art/GlassMaterial/M_Glass.uasset" SILENT=true
+[2023.10.28-03.14.35:251][835]LogSavePackage: Moving output files for package: /Game/Art/GlassMaterial/M_Glass
+[2023.10.28-03.14.35:251][835]LogSavePackage: Moving 'E:/UE5.2/GameJamGroup/ZoombieSlayer/Saved/M_Glass4E6DDB824FB0DAF8D4B094A9F27E67AA.tmp' to 'E:/UE5.2/GameJamGroup/ZoombieSlayer/Content/Art/GlassMaterial/M_Glass.uasset'
+[2023.10.28-03.14.35:261][835]LogFileHelpers: InternalPromptForCheckoutAndSave took 21.5 sec (total: 29.2 sec)
+[2023.10.28-03.14.35:264][835]AssetCheck: New page: 资产保存：M_Glass
+[2023.10.28-03.14.35:264][835]LogContentValidation: Display: 正在验证/Script/Engine.Material /Game/Art/GlassMaterial/M_Glass.M_Glass
+[2023.10.28-03.14.35:266][835]MaterialEditorStats: Base pass shader: 1930 instructions
+[2023.10.28-03.14.35:266][835]MaterialEditorStats: Base pass vertex shader: 297 instructions
+[2023.10.28-03.14.35:266][835]MaterialEditorStats: Texture samplers: 9/16
+[2023.10.28-03.14.35:266][835]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.10.28-03.14.35:266][835]MaterialEditorStats: Shader Count: 24
+[2023.10.28-03.14.50:652][745]LogSlate: Window 'M_Glass' being destroyed
+[2023.10.28-03.14.50:666][745]LogWorld: UWorld::CleanupWorld for World_74, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-03.14.50:666][745]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-03.14.55:196][ 14]LogViewport: Scene viewport resized to 985x454, mode Windowed.
+[2023.10.28-03.14.55:202][ 14]LogViewport: Scene viewport resized to 973x454, mode Windowed.
+[2023.10.28-03.14.55:236][ 16]LogViewport: Scene viewport resized to 985x456, mode Windowed.
+[2023.10.28-03.14.55:241][ 16]LogViewport: Scene viewport resized to 973x456, mode Windowed.
+[2023.10.28-03.14.55:273][ 18]LogViewport: Scene viewport resized to 985x466, mode Windowed.
+[2023.10.28-03.14.55:278][ 18]LogViewport: Scene viewport resized to 973x466, mode Windowed.
+[2023.10.28-03.14.55:312][ 20]LogViewport: Scene viewport resized to 985x479, mode Windowed.
+[2023.10.28-03.14.55:316][ 20]LogViewport: Scene viewport resized to 973x479, mode Windowed.
+[2023.10.28-03.14.55:349][ 22]LogViewport: Scene viewport resized to 985x510, mode Windowed.
+[2023.10.28-03.14.55:354][ 22]LogViewport: Scene viewport resized to 973x510, mode Windowed.
+[2023.10.28-03.14.55:387][ 24]LogViewport: Scene viewport resized to 985x577, mode Windowed.
+[2023.10.28-03.14.55:392][ 24]LogViewport: Scene viewport resized to 973x577, mode Windowed.
+[2023.10.28-03.14.55:426][ 26]LogViewport: Scene viewport resized to 985x666, mode Windowed.
+[2023.10.28-03.14.55:431][ 26]LogViewport: Scene viewport resized to 973x666, mode Windowed.
+[2023.10.28-03.14.55:464][ 28]LogViewport: Scene viewport resized to 985x709, mode Windowed.
+[2023.10.28-03.14.55:469][ 28]LogViewport: Scene viewport resized to 973x709, mode Windowed.
+[2023.10.28-03.14.55:503][ 30]LogViewport: Scene viewport resized to 985x730, mode Windowed.
+[2023.10.28-03.14.55:508][ 30]LogViewport: Scene viewport resized to 973x730, mode Windowed.
+[2023.10.28-03.14.55:541][ 32]LogViewport: Scene viewport resized to 985x742, mode Windowed.
+[2023.10.28-03.14.55:546][ 32]LogViewport: Scene viewport resized to 973x742, mode Windowed.
+[2023.10.28-03.14.55:579][ 34]LogViewport: Scene viewport resized to 985x748, mode Windowed.
+[2023.10.28-03.14.55:584][ 34]LogViewport: Scene viewport resized to 973x748, mode Windowed.
+[2023.10.28-03.14.55:616][ 36]LogViewport: Scene viewport resized to 985x759, mode Windowed.
+[2023.10.28-03.14.55:623][ 36]LogViewport: Scene viewport resized to 973x759, mode Windowed.
+[2023.10.28-03.14.55:806][ 47]LogViewport: Scene viewport resized to 985x743, mode Windowed.
+[2023.10.28-03.14.55:810][ 47]LogViewport: Scene viewport resized to 973x743, mode Windowed.
+[2023.10.28-03.14.55:841][ 49]LogViewport: Scene viewport resized to 985x698, mode Windowed.
+[2023.10.28-03.14.55:846][ 49]LogViewport: Scene viewport resized to 973x698, mode Windowed.
+[2023.10.28-03.14.55:878][ 51]LogViewport: Scene viewport resized to 985x655, mode Windowed.
+[2023.10.28-03.14.55:883][ 51]LogViewport: Scene viewport resized to 973x655, mode Windowed.
+[2023.10.28-03.14.55:916][ 53]LogViewport: Scene viewport resized to 985x585, mode Windowed.
+[2023.10.28-03.14.55:921][ 53]LogViewport: Scene viewport resized to 973x585, mode Windowed.
+[2023.10.28-03.14.55:955][ 55]LogViewport: Scene viewport resized to 985x551, mode Windowed.
+[2023.10.28-03.14.55:959][ 55]LogViewport: Scene viewport resized to 973x551, mode Windowed.
+[2023.10.28-03.14.55:993][ 57]LogViewport: Scene viewport resized to 985x530, mode Windowed.
+[2023.10.28-03.14.55:998][ 57]LogViewport: Scene viewport resized to 973x530, mode Windowed.
+[2023.10.28-03.14.56:030][ 59]LogViewport: Scene viewport resized to 985x514, mode Windowed.
+[2023.10.28-03.14.56:035][ 59]LogViewport: Scene viewport resized to 973x514, mode Windowed.
+[2023.10.28-03.14.56:068][ 61]LogViewport: Scene viewport resized to 985x503, mode Windowed.
+[2023.10.28-03.14.56:073][ 61]LogViewport: Scene viewport resized to 973x503, mode Windowed.
+[2023.10.28-03.14.56:106][ 63]LogViewport: Scene viewport resized to 985x498, mode Windowed.
+[2023.10.28-03.14.56:111][ 63]LogViewport: Scene viewport resized to 973x498, mode Windowed.
+[2023.10.28-03.14.57:894][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-03.15.00:084][300]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms

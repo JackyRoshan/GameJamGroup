@@ -1106,3 +1106,267 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.10.28-06.30.53:516][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.10.28-06.30.53:557][  0]LogViewport: Scene viewport resized to 1852x1321, mode Windowed.
 [2023.10.28-06.30.53:865][  1]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-06.31.42:291][826]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/StylizedVFX_Fire/Blueprints/BP_Spawner.BP_Spawner
+[2023.10.28-06.31.42:291][826]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.31.42:291][826]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.31.43:282][826]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.10.28-06.31.44:628][903]LogSlate: Window 'BP_Spawner' being destroyed
+[2023.10.28-06.31.44:636][903]LogSlate: Window 'BP_Spawner' being destroyed
+[2023.10.28-06.31.44:645][903]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.31.44:645][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.31.50:916][273]LogTexture: Display: 正在构建纹理：/Game/StylizedVFX_Fire/Textures/T_FireTexture_01.T_FireTexture_01 （TFO_AutoDXT, 512x512 x1x1x1）（预计所需内存：45.145823 MB），编码速度：Fast
+[2023.10.28-06.31.50:917][273]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_Smoke_Large.P_Smoke_Large
+[2023.10.28-06.31.51:417][273]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.31.51:417][273]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.31.51:425][273]LogStaticMesh: Display: 正在构建静态网格体AnimTreeEd_PreviewFloor……
+[2023.10.28-06.31.51:425][273]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.31.51:439][273]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AnimTreeEd_PreviewFloor.AnimTreeEd_PreviewFloor
+[2023.10.28-06.31.51:442][273]LogStaticMesh: Display: 正在等待静态网格体就绪0/1（/Engine/EditorMeshes/AnimTreeEd_PreviewFloor）……
+[2023.10.28-06.31.51:536][273]LogViewport: Scene viewport resized to 347x385, mode Windowed.
+[2023.10.28-06.31.51:540][273]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.10.28-06.31.51:548][273]LogViewport: Scene viewport resized to 811x469, mode Windowed.
+[2023.10.28-06.31.51:556][273]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.31.51:566][273]LogViewport: Scene viewport resized to 811x187, mode Windowed.
+[2023.10.28-06.31.54:621][406]LogViewport: Scene viewport resized to 762x619, mode Windowed.
+[2023.10.28-06.31.54:630][406]LogViewport: Scene viewport resized to 1778x750, mode Windowed.
+[2023.10.28-06.31.54:637][406]LogViewport: Scene viewport resized to 1778x375, mode Windowed.
+[2023.10.28-06.31.57:118][552]LogSlate: Window 'P_Smoke_Large' being destroyed
+[2023.10.28-06.31.57:125][552]LogSlate: Window 'P_Smoke_Large' being destroyed
+[2023.10.28-06.31.57:125][552]LogCascade: Quitting Cascade. FXSystem=0x0000047786FBE8E0
+[2023.10.28-06.31.57:135][552]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.31.57:135][552]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.31.58:102][609]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_Smoke_Medium.P_Smoke_Medium
+[2023.10.28-06.31.58:103][609]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.31.58:103][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.31.58:110][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.31.58:211][609]LogViewport: Scene viewport resized to 762x628, mode Windowed.
+[2023.10.28-06.31.58:224][609]LogViewport: Scene viewport resized to 1778x761, mode Windowed.
+[2023.10.28-06.31.58:229][609]LogViewport: Scene viewport resized to 1778x382, mode Windowed.
+[2023.10.28-06.31.58:257][610]LogViewport: Scene viewport resized to 762x619, mode Windowed.
+[2023.10.28-06.31.58:267][610]LogViewport: Scene viewport resized to 1778x750, mode Windowed.
+[2023.10.28-06.31.58:275][610]LogViewport: Scene viewport resized to 1778x375, mode Windowed.
+[2023.10.28-06.32.00:052][716]LogSlate: Window 'P_Smoke_Medium' being destroyed
+[2023.10.28-06.32.00:060][716]LogSlate: Window 'P_Smoke_Medium' being destroyed
+[2023.10.28-06.32.00:060][716]LogCascade: Quitting Cascade. FXSystem=0x000004779130EAF0
+[2023.10.28-06.32.00:069][716]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.32.00:069][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.32.01:958][827]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet
+[2023.10.28-06.32.01:959][827]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.32.01:959][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.32.01:966][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.32.01:975][827]LogTexture: Display: 正在构建纹理：/Game/StylizedVFX_Fire/Textures/T_FireTexture_02.T_FireTexture_02 （TFO_AutoDXT, 1024x1024 x1x1x1）（预计所需内存：124.145823 MB），编码速度：Fast
+[2023.10.28-06.32.02:072][827]LogViewport: Scene viewport resized to 762x624, mode Windowed.
+[2023.10.28-06.32.02:085][827]LogViewport: Scene viewport resized to 1778x757, mode Windowed.
+[2023.10.28-06.32.02:091][827]LogViewport: Scene viewport resized to 1778x378, mode Windowed.
+[2023.10.28-06.32.02:127][828]LogViewport: Scene viewport resized to 762x619, mode Windowed.
+[2023.10.28-06.32.02:145][828]LogViewport: Scene viewport resized to 1778x750, mode Windowed.
+[2023.10.28-06.32.02:152][828]LogViewport: Scene viewport resized to 1778x375, mode Windowed.
+[2023.10.28-06.32.07:711][153]LogSlate: Window 'P_FireJet' being destroyed
+[2023.10.28-06.32.07:719][153]LogSlate: Window 'P_FireJet' being destroyed
+[2023.10.28-06.32.07:719][153]LogCascade: Quitting Cascade. FXSystem=0x0000047794474AA0
+[2023.10.28-06.32.07:733][153]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.32.07:733][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.32.09:231][229]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet
+[2023.10.28-06.32.09:231][229]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet
+[2023.10.28-06.32.09:231][229]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_0
+[2023.10.28-06.32.09:232][229]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_0
+[2023.10.28-06.32.09:782][261]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet
+[2023.10.28-06.32.09:782][261]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet
+[2023.10.28-06.32.09:789][261]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_UAID_84A938FF3321FBB601_1771086527
+[2023.10.28-06.32.09:789][261]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_UAID_84A938FF3321FBB601_1771086527
+[2023.10.28-06.32.12:391][414]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.10.28-06.32.21:042][914]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-06.32.47:054][468]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_Candle_Flame.P_Candle_Flame
+[2023.10.28-06.32.47:055][468]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.32.47:055][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.32.47:062][468]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.32.47:064][468]LogTexture: Display: 正在构建纹理：/Game/StylizedVFX_Fire/Textures/T_Flame_01.T_Flame_01 （TFO_BC7, 512x1024 x1x1x1）（预计所需内存：45.354147 MB），编码速度：Fast
+[2023.10.28-06.32.47:172][468]LogViewport: Scene viewport resized to 762x624, mode Windowed.
+[2023.10.28-06.32.47:185][468]LogViewport: Scene viewport resized to 1778x756, mode Windowed.
+[2023.10.28-06.32.47:190][468]LogViewport: Scene viewport resized to 1778x379, mode Windowed.
+[2023.10.28-06.32.47:214][469]LogViewport: Scene viewport resized to 762x619, mode Windowed.
+[2023.10.28-06.32.47:224][469]LogViewport: Scene viewport resized to 1778x750, mode Windowed.
+[2023.10.28-06.32.47:231][469]LogViewport: Scene viewport resized to 1778x375, mode Windowed.
+[2023.10.28-06.32.52:701][791]LogSlate: Window 'P_Candle_Flame' being destroyed
+[2023.10.28-06.32.52:709][791]LogSlate: Window 'P_Candle_Flame' being destroyed
+[2023.10.28-06.32.52:709][791]LogCascade: Quitting Cascade. FXSystem=0x0000047794E3C240
+[2023.10.28-06.32.52:722][791]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.32.52:722][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.32.59:505][187]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireBall_Charge.P_FireBall_Charge
+[2023.10.28-06.32.59:506][187]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.32.59:506][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.32.59:513][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.32.59:618][187]LogViewport: Scene viewport resized to 762x626, mode Windowed.
+[2023.10.28-06.32.59:630][187]LogViewport: Scene viewport resized to 1778x758, mode Windowed.
+[2023.10.28-06.32.59:636][187]LogViewport: Scene viewport resized to 1778x380, mode Windowed.
+[2023.10.28-06.32.59:686][188]LogViewport: Scene viewport resized to 762x619, mode Windowed.
+[2023.10.28-06.32.59:692][188]LogViewport: Scene viewport resized to 1778x750, mode Windowed.
+[2023.10.28-06.32.59:699][188]LogViewport: Scene viewport resized to 1778x375, mode Windowed.
+[2023.10.28-06.33.00:305][223]LogDerivedDataCache: C:/Users/14360/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.391 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7644 files in 9662 folders with total size 1171 MiB.
+[2023.10.28-06.33.01:218][278]LogSlate: Window 'P_FireBall_Charge' being destroyed
+[2023.10.28-06.33.01:227][278]LogSlate: Window 'P_FireBall_Charge' being destroyed
+[2023.10.28-06.33.01:228][278]LogCascade: Quitting Cascade. FXSystem=0x0000047796730E10
+[2023.10.28-06.33.01:237][278]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.33.01:237][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.33.02:864][374]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireBall_Projectile.P_FireBall_Projectile
+[2023.10.28-06.33.02:864][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.33.02:865][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.02:873][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.02:976][374]LogViewport: Scene viewport resized to 762x626, mode Windowed.
+[2023.10.28-06.33.02:990][374]LogViewport: Scene viewport resized to 1778x759, mode Windowed.
+[2023.10.28-06.33.02:996][374]LogViewport: Scene viewport resized to 1778x380, mode Windowed.
+[2023.10.28-06.33.03:027][375]LogViewport: Scene viewport resized to 762x619, mode Windowed.
+[2023.10.28-06.33.03:044][375]LogViewport: Scene viewport resized to 1778x750, mode Windowed.
+[2023.10.28-06.33.03:051][375]LogViewport: Scene viewport resized to 1778x375, mode Windowed.
+[2023.10.28-06.33.04:322][450]LogSlate: Window 'P_FireBall_Projectile' being destroyed
+[2023.10.28-06.33.04:330][450]LogSlate: Window 'P_FireBall_Projectile' being destroyed
+[2023.10.28-06.33.04:330][450]LogCascade: Quitting Cascade. FXSystem=0x000004778F1A2D30
+[2023.10.28-06.33.04:340][450]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.33.04:341][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.33.10:764][832]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireExplosion_Small.P_FireExplosion_Small
+[2023.10.28-06.33.10:765][832]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.33.10:765][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.10:772][832]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.10:880][832]LogViewport: Scene viewport resized to 762x623, mode Windowed.
+[2023.10.28-06.33.10:892][832]LogViewport: Scene viewport resized to 1778x755, mode Windowed.
+[2023.10.28-06.33.10:899][832]LogViewport: Scene viewport resized to 1778x377, mode Windowed.
+[2023.10.28-06.33.10:933][833]LogViewport: Scene viewport resized to 762x619, mode Windowed.
+[2023.10.28-06.33.10:972][833]LogViewport: Scene viewport resized to 1778x750, mode Windowed.
+[2023.10.28-06.33.10:980][833]LogViewport: Scene viewport resized to 1778x375, mode Windowed.
+[2023.10.28-06.33.12:216][905]LogSlate: Window 'P_FireExplosion_Small' being destroyed
+[2023.10.28-06.33.12:225][905]LogSlate: Window 'P_FireExplosion_Small' being destroyed
+[2023.10.28-06.33.12:225][905]LogCascade: Quitting Cascade. FXSystem=0x0000047794D8FD50
+[2023.10.28-06.33.12:235][905]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.33.12:235][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.33.15:694][110]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet
+[2023.10.28-06.33.15:695][110]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.33.15:695][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.15:702][110]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.15:807][110]LogViewport: Scene viewport resized to 762x627, mode Windowed.
+[2023.10.28-06.33.15:819][110]LogViewport: Scene viewport resized to 1778x760, mode Windowed.
+[2023.10.28-06.33.15:825][110]LogViewport: Scene viewport resized to 1778x381, mode Windowed.
+[2023.10.28-06.33.15:875][111]LogViewport: Scene viewport resized to 762x619, mode Windowed.
+[2023.10.28-06.33.15:880][111]LogViewport: Scene viewport resized to 1778x750, mode Windowed.
+[2023.10.28-06.33.15:887][111]LogViewport: Scene viewport resized to 1778x375, mode Windowed.
+[2023.10.28-06.33.17:015][177]LogViewport: Scene viewport resized to 337x367, mode Windowed.
+[2023.10.28-06.33.17:021][177]LogViewport: Scene viewport resized to 786x448, mode Windowed.
+[2023.10.28-06.33.17:027][177]LogViewport: Scene viewport resized to 786x173, mode Windowed.
+[2023.10.28-06.33.17:057][177]LogViewport: Scene viewport resized to 786x430, mode Windowed.
+[2023.10.28-06.33.18:531][265]LogSlate: Window 'P_FireJet' being destroyed
+[2023.10.28-06.33.18:539][265]LogSlate: Window 'P_FireJet' being destroyed
+[2023.10.28-06.33.18:540][265]LogCascade: Quitting Cascade. FXSystem=0x00000477967311A0
+[2023.10.28-06.33.18:545][265]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.33.18:546][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.33.19:900][346]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireRay.P_FireRay
+[2023.10.28-06.33.19:902][346]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.33.19:902][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.19:909][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.19:985][346]LogViewport: Scene viewport resized to 337x383, mode Windowed.
+[2023.10.28-06.33.19:998][346]LogViewport: Scene viewport resized to 788x468, mode Windowed.
+[2023.10.28-06.33.20:002][346]LogViewport: Scene viewport resized to 788x186, mode Windowed.
+[2023.10.28-06.33.20:046][347]LogViewport: Scene viewport resized to 337x369, mode Windowed.
+[2023.10.28-06.33.20:061][347]LogViewport: Scene viewport resized to 788x432, mode Windowed.
+[2023.10.28-06.33.20:068][347]LogViewport: Scene viewport resized to 788x174, mode Windowed.
+[2023.10.28-06.33.21:655][441]LogSlate: Window 'P_FireRay' being destroyed
+[2023.10.28-06.33.21:664][441]LogSlate: Window 'P_FireRay' being destroyed
+[2023.10.28-06.33.21:664][441]LogCascade: Quitting Cascade. FXSystem=0x000004776E5F3510
+[2023.10.28-06.33.21:674][441]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.33.21:674][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.33.27:230][771]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireWall.P_FireWall
+[2023.10.28-06.33.27:231][771]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.33.27:231][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.27:239][771]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.27:316][771]LogViewport: Scene viewport resized to 338x385, mode Windowed.
+[2023.10.28-06.33.27:326][771]LogViewport: Scene viewport resized to 791x470, mode Windowed.
+[2023.10.28-06.33.27:332][771]LogViewport: Scene viewport resized to 791x187, mode Windowed.
+[2023.10.28-06.33.27:368][772]LogViewport: Scene viewport resized to 338x370, mode Windowed.
+[2023.10.28-06.33.27:382][772]LogViewport: Scene viewport resized to 791x452, mode Windowed.
+[2023.10.28-06.33.27:390][772]LogViewport: Scene viewport resized to 791x175, mode Windowed.
+[2023.10.28-06.33.31:470][ 16]LogSlate: Window 'P_FireWall' being destroyed
+[2023.10.28-06.33.31:480][ 16]LogSlate: Window 'P_FireWall' being destroyed
+[2023.10.28-06.33.31:480][ 16]LogCascade: Quitting Cascade. FXSystem=0x0000047794E37F80
+[2023.10.28-06.33.31:490][ 16]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.33.31:490][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.33.32:849][ 95]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireWall_Dynamic.P_FireWall_Dynamic
+[2023.10.28-06.33.32:850][ 95]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.33.32:850][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.32:857][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.32:938][ 95]LogViewport: Scene viewport resized to 339x386, mode Windowed.
+[2023.10.28-06.33.32:948][ 95]LogViewport: Scene viewport resized to 792x471, mode Windowed.
+[2023.10.28-06.33.32:953][ 95]LogViewport: Scene viewport resized to 792x188, mode Windowed.
+[2023.10.28-06.33.33:009][ 96]LogViewport: Scene viewport resized to 339x372, mode Windowed.
+[2023.10.28-06.33.33:014][ 96]LogViewport: Scene viewport resized to 792x453, mode Windowed.
+[2023.10.28-06.33.33:020][ 96]LogViewport: Scene viewport resized to 774x176, mode Windowed.
+[2023.10.28-06.33.35:028][216]LogSlate: Window 'P_FireWall_Dynamic' being destroyed
+[2023.10.28-06.33.35:037][216]LogSlate: Window 'P_FireWall_Dynamic' being destroyed
+[2023.10.28-06.33.35:037][216]LogCascade: Quitting Cascade. FXSystem=0x0000047796AEA7D0
+[2023.10.28-06.33.35:048][216]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.33.35:048][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.33.40:459][539]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/StylizedVFX_Fire/Effects/P_Torch_Smoke.P_Torch_Smoke
+[2023.10.28-06.33.40:461][539]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.28-06.33.40:461][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.40:467][539]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.28-06.33.40:488][539]LogTexture: Display: 正在构建纹理：/Game/StylizedVFX_Fire/Textures/T_Smoke_02.T_Smoke_02 （TFO_BC7, 1024x1024 x1x1x1）（预计所需内存：76.062484 MB），编码速度：Fast
+[2023.10.28-06.33.40:562][539]LogViewport: Scene viewport resized to 340x383, mode Windowed.
+[2023.10.28-06.33.40:575][539]LogViewport: Scene viewport resized to 794x467, mode Windowed.
+[2023.10.28-06.33.40:582][539]LogViewport: Scene viewport resized to 794x186, mode Windowed.
+[2023.10.28-06.33.40:607][540]LogViewport: Scene viewport resized to 340x373, mode Windowed.
+[2023.10.28-06.33.40:617][540]LogViewport: Scene viewport resized to 794x455, mode Windowed.
+[2023.10.28-06.33.40:624][540]LogViewport: Scene viewport resized to 794x178, mode Windowed.
+[2023.10.28-06.33.42:312][641]LogSlate: Window 'P_Torch_Smoke' being destroyed
+[2023.10.28-06.33.42:321][641]LogSlate: Window 'P_Torch_Smoke' being destroyed
+[2023.10.28-06.33.42:321][641]LogCascade: Quitting Cascade. FXSystem=0x000004776E0D2400
+[2023.10.28-06.33.42:331][641]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.10.28-06.33.42:331][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.28-06.33.44:677][770]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireWall.P_FireWall
+[2023.10.28-06.33.44:677][770]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireWall.P_FireWall
+[2023.10.28-06.33.44:677][770]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireWall.P_FireWall as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_1
+[2023.10.28-06.33.44:678][770]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireWall.P_FireWall as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_1
+[2023.10.28-06.33.45:468][808]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireWall.P_FireWall
+[2023.10.28-06.33.45:468][808]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireWall.P_FireWall
+[2023.10.28-06.33.45:469][808]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireWall.P_FireWall as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_UAID_84A938FF3321FBB601_1866770528
+[2023.10.28-06.33.45:471][808]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireWall.P_FireWall as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_UAID_84A938FF3321FBB601_1866770528
+[2023.10.28-06.33.57:723][519]Cmd: EDIT COPY
+[2023.10.28-06.33.57:983][533]Cmd: EDIT PASTE
+[2023.10.28-06.33.58:026][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-06.34.12:531][389]Cmd: EDIT COPY
+[2023.10.28-06.34.12:889][408]Cmd: EDIT PASTE
+[2023.10.28-06.34.12:929][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-06.34.19:760][814]Cmd: EDIT COPY
+[2023.10.28-06.34.19:998][828]Cmd: EDIT PASTE
+[2023.10.28-06.34.20:038][828]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-06.34.39:951][996]Cmd: DELETE
+[2023.10.28-06.34.39:951][996]Cmd: ACTOR DELETE
+[2023.10.28-06.34.39:954][996]LogEditorActor: Deleted Actor: Emitter
+[2023.10.28-06.34.39:956][996]LogEditorActor: Deleted Actor: Emitter
+[2023.10.28-06.34.39:957][996]LogEditorActor: Deleted Actor: Emitter
+[2023.10.28-06.34.39:957][996]LogEditorActor: Deleted Actor: Emitter
+[2023.10.28-06.34.39:958][996]LogEditorActor: Deleted Actor: Emitter
+[2023.10.28-06.34.39:987][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.10.28-06.34.39:989][996]LogEditorActor: Deleted 5 Actors (0.037 secs)
+[2023.10.28-06.34.52:668][739]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet
+[2023.10.28-06.34.52:669][739]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet
+[2023.10.28-06.34.52:670][739]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_2
+[2023.10.28-06.34.52:670][739]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_2
+[2023.10.28-06.34.53:292][772]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet
+[2023.10.28-06.34.53:292][772]LogActorFactory: Actor Factory attempting to spawn ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet
+[2023.10.28-06.34.53:296][772]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_UAID_84A938FF3321FBB601_1934594532
+[2023.10.28-06.34.53:296][772]LogActorFactory: Actor Factory spawned ParticleSystem /Game/StylizedVFX_Fire/Effects/P_FireJet.P_FireJet as actor: Emitter /Temp/Untitled_1.Untitled_1:PersistentLevel.Emitter_UAID_84A938FF3321FBB601_1934594532
+[2023.10.28-06.35.06:745][562]Cmd: EDIT COPY
+[2023.10.28-06.35.07:078][580]Cmd: EDIT PASTE
+[2023.10.28-06.35.07:119][580]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-06.35.12:922][924]Cmd: EDIT COPY
+[2023.10.28-06.35.13:210][941]Cmd: EDIT PASTE
+[2023.10.28-06.35.13:252][941]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-06.35.26:426][724]Cmd: EDIT COPY
+[2023.10.28-06.35.26:715][741]Cmd: EDIT PASTE
+[2023.10.28-06.35.26:749][741]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-06.35.35:575][260]Cmd: EDIT COPY
+[2023.10.28-06.35.35:766][271]Cmd: EDIT PASTE
+[2023.10.28-06.35.35:807][271]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: 输入“”为空。
+[2023.10.28-06.36.44:569][353]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.10.28-06.36.44:588][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.10.28-06.36.45:786][353]LogSlate: Window '保存内容' being destroyed
+[2023.10.28-06.36.45:797][353]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.28-06.36.47:725][353]LogSlate: Window '将关卡另存为' being destroyed
+[2023.10.28-06.36.47:745][353]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.94 sec
